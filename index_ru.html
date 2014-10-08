@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Документация Shopify Themes</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/bootstrap.css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" media="screen">
+	<link rel="stylesheet" href="css/style.css" media="screen">
+	<link rel="stylesheet" href="css/flexslider.css"  media="screen">
+	<link rel="stylesheet" href="css/prettify.css"  media="screen">
+	<link rel="stylesheet" href="css/prettyPhoto.css"  media="screen">
+	<link rel="canonical" href="http://www.templatemonster.com/help/quick-start-guide/wordpress-themes/master/index_en.html"/>
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.scrollTo.js"></script>
+	<script src="js/jquery-migrate-1.1.0.js"></script>
+	<script src="js/prettify.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/bootstrap-affix.js"></script>
+	<script src="js/script.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
+	<link href="google-code-prettify/prettify.css" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="google-code-prettify/prettify.js"></script>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css">
+	<!--[if lt IE 8]>
+		<div style='text-align:center'>
+			<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt="" /></a>
+		</div>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+
+<body>  
+
+<header class="header">
+<div class="container">
+<div class="row">
+	<article class="span3"><a class="brand" href="/help/ru/" target="_blank"></a></article>
+
+	<article class="span7">
+		<h1>Документация Shopify Themes</h1>
+	</article>
+
+	<article class="span2">
+		<div id="languages" class="select-menu pull-right">
+			<div class="select-menu_icon"><b>Рус</b><i class="icon-angle-down"></i></div>
+			<ul class="select-menu_list">
+			</ul>
+		</div>
+	</article>
+</div>
+</div>
+</header>
+
+<div id="content"> 
+<div class="bg-content-top">
+<div class="container">
+<div class="row">
+
+<div class="span3"> 
+<div id="nav_container">
+	<a href="javascript:;" id="affect_all">
+		<span class="expand"><i class="icon-angle-down"></i></span>
+		<span class="close"><i class="icon-angle-up"></i></span>
+	</a>
+
+	<div class="row-fluid"></div>
+
+	<ul class="nav nav-list bs-docs-sidenav" id="nav">
+		<li class="nav-item item1">
+			<dl class="slide-down">
+				<dt><a href="#introduction" class="icon-info-sign">Введение</a></dt>
+				<dd></dd>
+			</dl>   
+		</li>
+
+		<li class="nav-item item2">
+			<dl class="slide-down">
+				<dt><a href="#template_installation" class="icon-check special">Установка шаблона</a> <i class="icon-sample"></i></dt>
+				<dd>
+					<ul class="list">  
+						<li><a href="#shopify_installation_1">Шаг 1: Вход в аккаунт</a></li>
+						<li><a href="#shopify_installation_2">Шаг 2: Загрузка шаблона</a></li>                             
+						<li><a href="#shopify_installation_3">Шаг 3: Активация (публикация) шаблона</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</li>
+
+		<li class="nav-item item3">
+			<dl class="slide-down">
+				<dt><a href="#shop_config" class="icon-cogs">Настройка магазина</a></dt>
+				<dd></dd>
+			</dl>   
+		</li>
+
+		<li class="nav-item item4">
+			<dl class="slide-down">
+				<dt><a href="#theme_config" class="icon-cogs">Настройка шаблона</a> <i class="icon-sample"></i></dt>
+				<dd>
+					<ul class="list">  
+						<li><a href="#theme_config_1">Настройки темы (Theme Settings)</a></li>
+						<li><a href="#theme_config_2">Основные разделы страницы настроек</a></li>                             
+						<li><a href="#theme_config_3">Редактор файлов (Template Editor)</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</li>
+	</ul>
+</div>
+</div>
+
+      
+<div class="span9">
+<div class="box-content">
+
+<section class="block-started"  id="introduction">
+    <h2 class="item1"><i class="icon-info-sign"></i> Введение</h2>
+    <p>Благодарим Вас за приобретение шаблона Shopify. Данная документация состоит из нескольких частей и охватывает весь процесс настройки магазина Shopify с нуля.</p>
+
+	<div id="shopify_desc">
+		<h4>Что представляет собой платформа Shopify?</h4>
+		<p><a href="//www.shopify.com/">Shopify</a> — это онлайн-платформа для создания интернет-магазинов. Система построена по принципу SaaS (software as a service — программное обеспечение как услуга).</p>
+	</div>
+
+	<div id="saas_desc">
+		<h4>Что такое SaaS?</h4>
+		<p>Это модель предоставления услуг, при которой разработчик берёт на себя все заботы по обслуживанию оборудования и программного обеспечения, предоставляя потребителю онлайн-приложение в аренду. То есть, вам не нужно искать хостинг, устанавливать и настраивать программное обеспечение — всё это делает разработчик. А вы получаете готовый интернет-магазин в несколько кликов.</p>
+	</div>
+
+	<div id="saas_desc">
+		<h4>Шаблон Shopify</h4>
+		<p>Шаблон Shopify — это тема для оформления вашего магазина. Вы можете легко изменить вид вашего интернет-магазина с помощью установки шаблона, в несколько простых шагов. Шаблон содержит архив с файлами, которые вы можете изменять по своему усмотрению.</p>
+	</div>
+
+	<div id="shopify_theme_desc">
+		<h4>Структура шаблона</h4>
+		<p>Комплект шаблона состоит из нескольких папок:</p>
+		<ul>
+			<li></li>
+		</ul>
+		<ul class="files_structure">
+			<li class="folder"><i class="icon-folder-close"></i> <b>screenshots</b><small class="muted"> - папка со скриншотами шаблона.</small></li>
+
+			<li class="file"><i class="icon-file"></i> <b>theme###.zip</b><small class="muted"> - архив шаблона.</small>
+				<ul>
+					<li class="folder"><i class="icon-folder-close"></i> <b>assets</b><small class="muted"> - эта папка содержит стили, скрипты, графические файлы темы.</small></li>
+					<li class="folder"><i class="icon-folder-close"></i> <b>config</b><small class="muted"> - папка содержит настройки темы.</small>
+						<ul>
+							<li class="file"><i class="icon-file"></i> <b>settings.html</b><small class="muted"> - таблица настроек темы, доступных в Theme Settings.</small></li>
+							<li class="file"><i class="icon-file"></i> <b>settings_data.json</b><small class="muted"> - файл настроек темы; генерируется на основе settings.html, править этот файл вручную нежелательно.</small></li>
+						</ul>
+					</li>
+					<li class="folder"><i class="icon-folder-close"></i> <b>layout</b><small class="muted"> - содержит файлы макета (layout).</small>
+						<ul>
+							<li class="file"><i class="icon-file"></i> <b>theme.liquid</b><small class="muted"> - основной макет темы.</small></li>
+						</ul>
+					</li>
+					<li class="folder"><i class="icon-folder-close"></i> <b>snippets</b><small class="muted"> - содержит сниппеты и виджеты, используемые в шаблоне.</small></li>
+					<li class="folder"><i class="icon-folder-close"></i> <b>templates</b><small class="muted"> - содержит шаблоны страниц магазина (страницы категории, продукта, корзины, и т.д.).</small></li>
+					<li class="file"><i class="icon-file"></i> <b>documentation.html</b><small class="muted"> - файл, содержащий ссылку на документацию.</small></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</section>
+
+<section class="block-templates" id="template_installation">   
+	<h2 class="item2"><i class="icon-check"></i> Установка шаблона</h2>
+
+	<p>Установка шаблона предельно проста и производится всего в три шага:</p>
+
+	<article id="shopify_installation_1">
+		<h4>Шаг 1: Вход в аккаунт</h4>
+		<p>Зарегистрируйтесь на <a href="//www.shopify.com/">shopify.com</a> (или войдите в свой аккаунт, если уже зарегистрированы — для этого добавьте <b>/admin</b> к доменному имени своего магазина в адресной строке браузера и введите email/пароль).</p>
+	</article>    
+
+	<article id="shopify_installation_2">
+		<h4>Шаг 2: Загрузка шаблона</h4>
+		<ol style="margin-bottom:.5em;">
+			<li>Перейдите в меню <strong>Themes</strong>. По умолчанию там содержится дефолтная тема.</li>
+			<li>Нажмите кнопку <strong>Upload a theme</strong> в верхней части страницы справа.
+				<figure class="img-paraloid"><img alt="" src="img/shopify/01_themes.png"></figure>
+			</li>
+			<li>В появившемся диалоговом окне нажмите <strong>Browse (Обзор)</strong> и откройте папку шаблона на своём компьютере.
+				<figure class="img-paraloid"><img alt="" src="img/shopify/02_browse.png"></figure>
+			</li>
+			<li>Выберите файл шаблона, он имеет вид <strong>theme###.zip</strong>.
+				<figure class="img-paraloid"><img alt="" src="img/shopify/03_choose.png"></figure>
+			</li>
+			<li>Нажмите кнопку <strong>Upload</strong>. Через несколько секунд загруженный шаблон появится в перечне тем вашего интернет-магазина.</li>
+		</ol>
+	</article>
+
+	<article id="shopify_installation_3">
+		<h4>Шаг 3: Активация (публикация) шаблона</h4>
+		<ol style="margin-bottom:.5em;">
+			<li>В нижней части загруженного шаблона есть кнопка <strong>Publish theme</strong>, нажмите её.
+				<figure class="img-paraloid"><img alt="" src="img/shopify/04_publish.png"></figure>
+			</li>
+			<li>В появившемся диалоговом окне нажмите кнопку <strong>Publish</strong>.
+				<figure class="img-paraloid"><img alt="" src="img/shopify/05_publish_confirm.png"></figure>
+			</li>
+		</ol>
+	    <p>Поздравляем! Вы успешно установили Shopify-шаблон, теперь он готов к работе. Можете проверить как он выглядит, перейдя на страницу вашего интернет-магазина.</p>
+	</article>
+</section>
+
+<section class="block-templates" id="shop_config">  
+	<h2 class="item3"><i class="icon-cogs"></i> Настройка магазина</h2>
+
+	<article id="shop_config_links">
+		<p>С официальным руководством пользователя можно ознакомиться на странице <a href="//docs.shopify.com/manual">Shopify Manual</a>. В данном разделе содержится множество полезной информации, которая поможет вам в процессе настройки и эксплуатации интернет-магазина Shopify. Мануалы написаны на английском языке. Основные разделы:</p>
+
+		<ol>
+			<li><a href="//docs.shopify.com/manual/settings/general">Основные настройки (General settings)</a></li>
+			<li><a href="//docs.shopify.com/manual/settings/payments">Оформление заказов (Checkout and Payment)</a></li>
+			<li><a href="//docs.shopify.com/manual/settings/domains">Управление доменными именами (Domains)</a></li>
+			<li><a href="//docs.shopify.com/manual/your-store/customers">Учётные записи пользователей (Customers)</a></li>
+			<li><a href="//docs.shopify.com/manual/your-website/navigation">Настройка навигации магазина (Navigation)</a></li>
+			<li><a href="//docs.shopify.com/manual/your-website/blog-posts">Настройка блога (Blog posts)</a></li>
+			<li><a href="//docs.shopify.com/manual/your-website/pages">Добавление и настройка страниц с текстовым контентом (Pages)</a></li>
+			<li><a href="//docs.shopify.com/manual/your-store/products">Продукты (Products): добавление, редактирование, управление, сортировка, удаление</a></li>
+			<li><a href="//docs.shopify.com/manual/your-store/collections">Категории (Collections): добавление, редактирование, удаление</a></li>
+		</ol>
+
+		<p>Если вы так и не смогли найти ответ на интересующий вас вопрос — обратитесь в <a href="//docs.shopify.com/support">службу поддержки Shopify</a>.</p>
+	</article>
+</section>
+
+<section class="block-templates" id="theme_config">  
+	<h2 class="item4"><i class="icon-cogs"></i> Настройка шаблона</h2>
+
+	<p>Благодаря множеству опций вы можете производить тонкую настройку шаблона, по своему усмотрению изменяя гарнитуру, кегль и цвет шрифта, цветовую схему, изображения баннеров и слайдера, и многое другое.</p>
+
+	<p>Перейдите в раздел <strong>Themes</strong>. В установленном шаблоне вам доступны следующие опции:</p>
+
+	<h4 id="theme_config_1">Настройки темы (Theme Settings)</h4>
+	<p>При клике на эту опцию откроется страница настроек шаблона, на которой вы можете изменять внешний вид и содержание шаблона.
+		<figure class="img-paraloid"><img alt="" src="img/shopify/06_settings.png"></figure>
+	</p>
+
+	<h4 id="theme_config_2">Основные разделы страницы настроек</h4>
+
+	<h5>General</h5>
+	<p>Здесь вы можете загрузить свой логотип, который будет использоваться в вашем интернет-магазине, а также иконку, демонстрируемую в адресной строке браузера (favicon). Также, доступны опции включения/отключения логотипа на странице оформления заказа и копирайта в футере.</p>
+
+	<br>
+	<h5>Typography</h5>
+	<p>Раздел настройки типографики шаблона. С помощью представленных опций вы можете выбрать нужный шрифт, а также его цвет и размер. Вы можете изменять:</p>
+	<ul>
+		<li>основной шрифт страниц магазина</li>
+		<li>текстовые ссылки</li>
+		<li>заголовки</li>
+		<li>названия продуктов</li>
+		<li>описания продуктов</li>
+		<li>цена продуктов</li>
+	</ul>
+	<p>Вы можете использовать как системные шрифты, так и <a href="//www.google.com/fonts">Google Fonts</a>.</p>
+	<p class="alert"><b>Внимание!</b> Размеры шрифтов необходимо указывать в пикселях (например, <b>12px</b>), а цвета — в восьмеричном формате (например, <b>#aabbcc</b>; также, можно выбирать цвета из представленной палитры).</p>
+
+	<br>
+	<h5>Layout</h5>
+	<p>Основные настройки вывода контента. Вы можете:</p>
+	<ul>
+		<li>выбрать главную навигацию магазина (выводится в верхнем горизонтальном меню)</li>
+		<li>управлять поведением боковых колонок (сайдбаров)</li>
+		<li>настроить вывод списка продуктов на главной странице и на странице категории</li>
+	</ul>
+
+	<br>
+	<h5>Colors</h5>
+	<p>Управление цветовой схемой шаблона. Цвета необходимо задавать в восьмеричном формате (например, <b>#aabbcc</b>). Также, можно выбирать цвета из представленной палитры.</p>
+
+	<br>
+	<h5>Gradients <span class="muted">(опционально)</span></h5>
+	<p>В этом разделе вы можете редактировать градиенты (если они предусмотрены дизайном шаблона). В наших шаблонах используются линейные вертикальные градиенты. Их можно изменять, достаточно задать два цвета, для верхней и нижней границ.</p>
+
+	<br>
+	<h5>Money options</h5>
+	<p>Если вы планируете использовать несколько валют в вашем-интернет-магазине, вы можете настроить их вывод в этом разделе. Для этого отметьте переключатель <strong>Show currency selector</strong> и внесите трёхбуквенные коды валют (<a href="//www.iso.org/iso/currency_codes">стандарт ISO 4217</a>) в поле <strong>Currencies you wish to support</strong>.</p>
+
+	<br>
+	<h5>Slider <span class="muted">(опционально)</span></h5>
+	<p>Раздел содержит настройки слайдера, представленного на главной странице вашего интернет-магазина (если слайдер предусмотрен дизайном шаблона). Вы можете включать/отключать слайдер, менять изображения, редактировать описания и ссылки, на которые ведут слайды.</p>
+	<p class="alert"><b>Внимание!</b> Для сохранения эстетической привлекательности шаблона рекомендуется придерживаться размеров изображений, указанных рядом с формой загрузки.</p>
+
+	<br>
+	<h5>Custom blocks</h5>
+	<p>В этом разделе вы можете редактировать баннеры, блоки ссылок, опции социальных аккаунтов, а также другой пользовательский контент, представленный в шаблоне. Для редактирования этих блоков не требуются знания вёрстки или программирования — настройка сводится к простым действиям, таким как ввод текстов, выбор иконок и загрузка изображений.</p>
+
+	<br>
+	<h5>Mailing list <span class="muted">(опционально)</span></h5>
+	<p>Раздел содержит инструменты настройки почтовых рассылок.</p>
+
+	<br>
+	<h5>Payment methods</h5>
+	<p>Управление отображением иконок-логотипов платёжных систем, которые показываются на странице оформления заказа. Вы можете включать/отключать иконки по своему усмотрению.</p>
+
+	<br>
+	<h5>Additional Layouts</h5>
+	<p>Управление дополнительными макетами страниц. Добаить, удалить или редактировать макеты страниц вы можете в меню <strong>Themes > Template Editor > Layouts</strong>.</p>
+
+	<h4 id="theme_config_3">Редактор файлов (Template Editor)</h4>
+	<p>При клике на эту опцию откроется онлайн-редактор файлов шаблона. Вы можете по своему усмотрению редактировать файлы разметки (файлы с расширением <b>.liquid</b>), скрипты (<b>javascript</b>), стили (<b>css</b>) и файл настроек (<b>settings.html</b>).
+		<figure class="img-paraloid"><img alt="" src="img/shopify/07_editor.png"></figure>
+	</p>
+</section>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<footer>
+	<div class="container">Документация Shopify Themes <br>&copy; <span id="copyright-year"></span> <span id="copyright">Template Monster</span></div>
+</footer>   
+
+<div id="back-top">
+	<a href="#"><i class="icon-double-angle-up"></i></a>
+</div>   
+
+<div class="modal_bg"></div>
+
+<div class="modal">
+	<div class="modal-header">
+		<span class="modal_remove pull-right"><i class="icon-remove"></i></span>
+		<h3>Choose language</h3>
+	</div>
+	<div class="modal-body">
+		<ul id="modal_languages" class="nav nav-list bs-docs-sidenav"></ul>
+	</div>
+</div> 
+
+<!-- <script src="js/bootstrap-scrollspy.js"></script>  -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-2787305-5']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })();
+</script>
+    
+</body> 
+</html>
