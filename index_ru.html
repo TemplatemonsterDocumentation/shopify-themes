@@ -107,6 +107,12 @@
 				</dd>
 			</dl>
 		</li>
+		<li class="nav-item item5">
+			<dl class="slide-down">
+				<dt><a href="#Addendum" class="icon-cogs">Дополнение</a></dt>
+				<dd></dd>
+			</dl>   
+		</li>
 	</ul>
 </div>
 </div>
@@ -237,9 +243,9 @@
 	<p>Перейдите в раздел <strong>Themes</strong>. В установленном шаблоне вам доступны следующие опции:</p>
 
 	<h4 id="theme_config_1">Настройки темы (Theme Settings)</h4>
-	<p>При клике на эту опцию откроется страница настроек шаблона, на которой вы можете изменять внешний вид и содержание шаблона.
+	<p>При клике на эту опцию откроется страница настроек шаблона, на которой вы можете изменять внешний вид и содержание шаблона.</p>
 		<figure class="img-paraloid"><img alt="" src="img/shopify/06_settings.png"></figure>
-	</p>
+	
 
 	<h4 id="theme_config_2">Основные разделы страницы настроек</h4>
 
@@ -307,7 +313,31 @@
 		<figure class="img-paraloid"><img alt="" src="img/shopify/07_editor.png"></figure>
 	</p>
 </section>
+<section id="Addendum" class="block-templates">
+  <h2><i class="icon-question-sign"></i> Дополнение. Куда обращаться за помощью, поддержкой и дополнительной информацией</h2>
 
+  <p>Мы постарались сделать данную документацию как можно более доступной и понятной. Тем не менее, в случае возникновения любых сложностей с Shopify шаблоном, предложений по улучшению шаблонов или документации, с командой технической поддержки можно связаться следующим образом:</p>
+  
+  <div id="help_support">
+    <h4>Помощь и поддержка</h4>
+    <ul class="list">
+      <li><a href="http://chat.template-help.com/" target="_blank">Чат</a></li>
+      <li><a href="http://support.template-help.com/index.php?/Tickets/Submit"  target="_blank">Тикет-система</a></li>
+    </ul>
+  </div>
+
+ 
+    <h4>Решение возможных проблем с веб-шрифтами </h4>
+
+<p>В случае некорректного отображения веб-шрифтов после установки, откройте для редактирования файл index.php шаблона (\templates\theme****\index.php), например, перейдя в админ-панели Joomla! в менеджер шаблонов (Extensions -> Template Manager -> Templates) и выбрав соответствующий шаблон (Theme**** Details and Files).</p>
+
+<p>Далее найдите строку вида "$doc->addStyleSheet('//fonts.googleapis.com/css?family=[---используемый шрифт---]');" и измените ее на строку вида "$doc->addStyleSheet('//fonts.useso.com/css?family=[---используемый шрифт---]');".</p>
+  
+
+  
+    <h4> Прeдупреждение об использовании cookies</h4>
+    <p>По закону ЕС о Cookies Вы должны добавить на Ваш сайт модуль, который будет отображать предупреждение о cookies, используемых на сайте.</p>
+</section>
 </div>
 </div>
 

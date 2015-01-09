@@ -107,6 +107,12 @@
 				</dd>
 			</dl>
 		</li>
+		<li class="nav-item item5">
+			<dl class="slide-down">
+				<dt><a href="#Addendum" class="icon-cogs">Addendum</a> <i class="icon-sample"></i></dt>
+				
+			</dl>
+		</li>
 	</ul>
 </div>
 </div>
@@ -115,8 +121,8 @@
 <div class="span9">
 <div class="box-content">
 
-<section class="block-started" id="introduction">
-    <h2 class="item1"><i class="icon-info-sign"></i> Introduction</h2>
+<section class="block-started" >
+    <h2 class="item1" id="introduction"><i class="icon-info-sign"></i> Introduction</h2>
     <p>Thank you for purchasing a Shopify template. This documentation consists of several parts and shows you the entire process of setting up and administering a Shopify store from scratch.</p>
 
 	<div id="shopify_desc">
@@ -306,8 +312,31 @@
 	<p>If you click this option, the online editor of the template will show up.  You can edit layout files (files with extension <b>.liquid</b>), scripts (<b>javascript</b>), styles (<b>css</b>) and settings file (<b>settings.html</b>).
 		<figure class="img-paraloid"><img alt="" src="img/shopify/07_editor.png"></figure>
 	</p>
-</section>
 
+</section>
+<section id="Addendum" class="block-templates">
+  <h2><i class="icon-question-sign"></i> Addendum  <small>Where to get help, support and additional information</small> </h2>
+
+  <p>We did our best to make this documentation as clear as possible. However, if you have any difficulties with the Joomla template or suggestions on improving the template or its documentation, feel free to contact our support team through:</p>
+  
+  <div id="help_support">
+    <h4>Help and Support</h4>
+    <ul class="list">
+      <li><a href="http://chat.template-help.com/"  target="_blank">Live chat</a></li>
+      <li><a href="http://support.template-help.com/index.php?/Tickets/Submit"  target="_blank">Help ticket system</a></li>
+    </ul>
+  </div>
+<h2>Loading data from Google servers</h2>
+
+<p>Some countries have issues connecting to Google servers. This can cause issues loading Google Fonts and Java Script libraries from Google CDN. To resolve these issues please do the following: </p>
+
+<h4>Can't load Google Fonts: </h4>
+<ol>
+<li>Open \templates\theme****\index.php file</li>
+<li>Locate the line: <br>
+<pre>$doc->addStyleSheet('//fonts.googleapis.com/css?family=[---your_web_font_name_here---]');</pre></li>
+<li>Replace it with the following: <br>
+<pre>$doc->addStyleSheet('//fonts.useso.com/css?family=[---your_web_font_name_here---]');</pre></li>
 </div>
 </div>
 
