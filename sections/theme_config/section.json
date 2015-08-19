@@ -1,0 +1,30 @@
+{
+  "id": "theme_config",
+  "translations": {
+    "en": "Theme Configuration",
+    "ru": "Настройка шаблона"
+  },
+  "articles": [
+    {
+      "id": "settings",
+      "translations": {
+        "en": "Theme Settings",
+        "ru": "Настройки темы"
+      }
+    },
+    {
+      "id": "settings_page",
+      "translations": {
+        "en": "The main sections on your Theme settings page",
+        "ru": "Основные разделы страницы настроек"
+      }
+    },
+    {
+      "id": "editor",
+      "translations": {
+        "en": "Template Editor",
+        "ru": "Редактор файлов"
+      }
+    }
+  ]
+}
