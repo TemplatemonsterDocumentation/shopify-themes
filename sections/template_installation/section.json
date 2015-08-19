@@ -1,0 +1,30 @@
+{
+  "id": "template_installation",
+  "translations": {
+    "en": "Template Installation",
+    "ru": "Установка шаблона"
+  },
+  "articles": [
+    {
+      "id": "shopify_installation_1",
+      "translations": {
+        "en": "Step 1: Logging into account",
+        "ru": "Шаг 1: Вход в аккаунт"
+      }
+    },
+    {
+      "id": "shopify_installation_2",
+      "translations": {
+        "en": "Step 2: Theme installation",
+        "ru": "Шаг 2: Загрузка шаблона"
+      }
+    },
+    {
+      "id": "shopify_installation_3",
+      "translations": {
+        "en": "Step 3: Theme activation",
+        "ru": "Шаг 3: Активация шаблона"
+      }
+    }
+  ]
+}

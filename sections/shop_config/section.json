@@ -1,0 +1,12 @@
+{
+	"id":"shop_config",
+	"translations":
+	{
+		"en":"Store Configuration",
+		"ru":"Настройка магазина"
+	},
+	"articles":
+	{
+
+	}
+}
