@@ -109,7 +109,7 @@
     <img alt="" src="img/06_settings_googlemap.png">
 </figure>
 
-<h4>Olark chat</h4>
+<h4><a href="//special.olark.com/cDqdW">Olark chat</a></h4>
 
 <p>Our Shopify templates include widget to display Olark-chat. One can manage widget settings in the corresponding
     section.</p>
@@ -117,12 +117,12 @@
 <p>In order to add Olark-chat to the pages of your store, follow these steps:</p>
 
 <p>
-    <a href="https://www.olark.com/signup/create_new_account">Create an account</a> on the <a
-        href="https://www.olark.com/install">official Olark website</a>.
+    <a href="//www.olark.com/signup/create_new_account">Create an account</a> on the <a
+        href="//www.olark.com/install">official Olark website</a>.
 </p>
 
 <p class="alert alert-info">You can get a free trial 6-month bronze package. To do this, <a
-        href="http://olark.com/signup/create_new_account/18981?utm_source=templatemonster&utm_medium=offer&utm_campaign=default">follow
+        href="//olark.com/signup/create_new_account/18981?utm_source=templatemonster&utm_medium=offer&utm_campaign=default">follow
         the link</a> and fill in your registration data.</p>
 
 <p>Get the chat code for your store.</p>
@@ -146,8 +146,8 @@
 <p>Additional Information:</p>
 
 <ul class="marked-list">
-    <li><a href="https://www.olark.com/help/guide">Getting started guide</a></li>
-    <li><a href="https://www.olark.com/download/handbook-en-US.pdf?download">The Olark Handbook</a></li>
+    <li><a href="//www.olark.com/help/guide">Getting started guide</a></li>
+    <li><a href="//www.olark.com/download/handbook-en-US.pdf?download">The Olark Handbook</a></li>
 </ul>
 
 <h4>Money options</h4>
@@ -170,7 +170,7 @@
         <strong>Customers</strong> marked as <strong>Newsletter Subscriber</strong>.
     </li>
     <li>Mailchimp form integration. To work with mailing lists, you can use the Mailchimp service, it is enough to get a
-        <a href="https://docs.shopify.com/manual/configuration/store-customization/communicating-with-customers/accounts-and-newsletters/where-do-i-get-my-mailchimp-form-action"
+        <a href="//docs.shopify.com/manual/configuration/store-customization/communicating-with-customers/accounts-and-newsletters/where-do-i-get-my-mailchimp-form-action"
            target="_blank"> subscription form</a> and input it in the <strong>Mailchimp form action URL</strong> field.
     </li>
 </ul>
@@ -193,7 +193,7 @@
 <h4>Cookies Policy</h4>
 
 <p>There is a built-in widget in our templates to display information about the use of <a
-        href="http://www.cookielaw.org/the-cookie-law/">Cookie Law</a>. Widget can be managed in the <strong>Cookies
+        href="//www.cookielaw.org/the-cookie-law/">Cookie Law</a>. Widget can be managed in the <strong>Cookies
         Policy</strong> section:</p>
 
 <p>You can enable/disable the widget, edit text, the period during which the message will not be displayed (by pressing

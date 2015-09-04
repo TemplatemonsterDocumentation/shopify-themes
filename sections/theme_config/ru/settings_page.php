@@ -103,20 +103,20 @@
     <img alt="" src="img/06_settings_googlemap.png">
 </figure>
 
-<h4>Olark chat</h4>
+<h4><a href="//special.olark.com/cDqdW">Olark chat</a></h4>
 
 <p>В наши шаблоны Shopify встроен виджет для отображения olark-чата, управлять настройками виджета можно в
     соответствующем разделе.</p>
 <p>Для того, чтобы добавить Olark-чат на страницы своего магазина, выполните следующие действия:</p>
 
 <p>
-    <a href="https://www.olark.com/signup/create_new_account">Зарегистрируйтесь</a> на <a
-        href="https://www.olark.com/install">официальном сайте Olark</a>.
+    <a href="//www.olark.com/signup/create_new_account">Зарегистрируйтесь</a> на <a
+        href="//www.olark.com/install">официальном сайте Olark</a>.
 </p>
 
 <p class="alert alert-info">Вы можете получить пробный бесплатный 6-месячный
     бронзовый пакет. Для этого перейдите по <a
-        href="http://olark.com/signup/create_new_account/18981?utm_source=templatemonster&utm_medium=offer&utm_campaign=default">ссылке</a>
+        href="//olark.com/signup/create_new_account/18981?utm_source=templatemonster&utm_medium=offer&utm_campaign=default">ссылке</a>
     и внесите свои регистрационные данные.</p>
 
 <p>Получите код чата для вашего магазина. </p>
@@ -140,8 +140,8 @@
 <p>Дополнительная информация:</p>
 
 <ul class="marked-list">
-    <li><a href="https://www.olark.com/help/guide">Getting started guide</a></li>
-    <li><a href="https://www.olark.com/download/handbook-en-US.pdf?download">The Olark Handbook</a></li>
+    <li><a href="//www.olark.com/help/guide">Getting started guide</a></li>
+    <li><a href="//www.olark.com/download/handbook-en-US.pdf?download">The Olark Handbook</a></li>
 </ul>
 
 <h4>Money options</h4>
@@ -164,7 +164,7 @@
     </li>
     <li>Интеграция формы <strong>Mailchimp</strong>. Для работы с рассылками вы можете использовать сервис <strong>Mailchimp</strong>,
         достаточно получить<a
-            href="https://docs.shopify.com/manual/configuration/store-customization/communicating-with-customers/accounts-and-newsletters/where-do-i-get-my-mailchimp-form-action"
+            href="//docs.shopify.com/manual/configuration/store-customization/communicating-with-customers/accounts-and-newsletters/where-do-i-get-my-mailchimp-form-action"
             target="_blank"> форму подписки</a> и ввести её в поле <strong>Mailchimp form action URL</strong>.
     </li>
 </ol>
@@ -187,7 +187,7 @@
 <h4>Cookies Policy</h4>
 
 <p>В наших шаблонах есть встроенный виджет для отображения информации об использовании <a
-        href="http://www.cookielaw.org/the-cookie-law/">Cookie Law</a>. Управление виджетом производится в разделе
+        href="//www.cookielaw.org/the-cookie-law/">Cookie Law</a>. Управление виджетом производится в разделе
     <strong>Cookies Policy</strong>:</p>
 
 <p>Вы можете включить/отключить виджет, редактировать тексты, период в течение которого сообщение не будет отображаться
