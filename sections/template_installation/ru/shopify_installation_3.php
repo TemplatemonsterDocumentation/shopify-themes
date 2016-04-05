@@ -1,6 +1,6 @@
 <h3>Шаг 3: Активация (публикация) шаблона</h3>
 <ol>
-    <li>В нижней части загруженного шаблона есть кнопка <strong>Publish theme</strong>, нажмите её.
+    <li>В нижней части загруженного шаблона нажмите кнопку <strong>Publish theme</strong>.
         <figure class="img-polaroid"><img alt="" src="img/04_publish.png"></figure>
     </li>
     <li>В появившемся диалоговом окне нажмите кнопку <strong>Publish</strong>.

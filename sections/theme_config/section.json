@@ -25,6 +25,13 @@
         "en": "Template Editor",
         "ru": "Редактор файлов"
       }
+    },
+     {
+      "id": "languages",
+      "translations": {
+        "en": "language settings",
+        "ru": "Языковые настройки"
+      }
     }
   ]
 }
