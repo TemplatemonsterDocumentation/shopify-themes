@@ -6,7 +6,7 @@
 
 <h3>What is Shopify platform?</h3>
 
-<p><a href="//www.shopify.com/">Shopify</a> is an online eCommerce platform for creating online stores. The system is
+<p><a href="//www.shopify.com/?ref=templatemonster1">Shopify</a> is an online eCommerce platform for creating online stores. The system is
     SaaS-based (software as a service).</p>
 
 <h3>What is SaaS?</h3>
