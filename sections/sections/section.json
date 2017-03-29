@@ -1,0 +1,100 @@
+{
+  "id": "sections",
+  "translations": {
+    "en": "Homepage Sections Configuration",
+    "ru": "Настройка секций главной страницы"
+  },
+  "articles": [
+     {
+      "id": "blog",
+      "translations": {
+        "en": "Blog Articles Section",
+        "ru": "Blog Articles Section"
+      }
+    },
+     {
+      "id": "collection",
+      "translations": {
+        "en": "Collection List Section",
+        "ru": "Collection List Section"
+      }
+    },
+     {
+      "id": "gallery",
+      "translations": {
+        "en": "Gallery Section",
+        "ru": "Gallery Section"
+      }
+    },
+    {
+      "id": "image-with-text",
+      "translations": {
+        "en": "Image with Text Section",
+        "ru": "Image with Text Section"
+      }
+    },
+    {
+      "id": "image-with-text-overlay",
+      "translations": {
+        "en": "Image with Text Overlay Section",
+        "ru": "Image with Text Overlay Section"
+      }
+    },
+    {
+      "id": "logo-list",
+      "translations": {
+        "en": "Logo List Section",
+        "ru": "Logo List Section"
+      }
+    },
+     {
+      "id": "slideshow",
+      "translations": {
+        "en": "Slideshow Section",
+        "ru": "Slideshow Section"
+      }
+    },
+     {
+      "id": "featured",
+      "translations": {
+        "en": "Featured Prodcts Section",
+        "ru": "Featured Prodcts Section"
+      }
+    },
+    {
+      "id": "single-product",
+      "translations": {
+        "en": "Single Product Section",
+        "ru": "Single Product Section"
+      }
+    },
+    {
+      "id": "map",
+      "translations": {
+        "en": "Map Section",
+        "ru": "Map Section"
+      }
+    },
+    {
+      "id": "testimonials",
+      "translations": {
+        "en": "Testimonials Section",
+        "ru": "Testimonials Section"
+      }
+    },
+    {
+      "id": "text-columns",
+      "translations": {
+        "en": "Text Columns with Images Section",
+        "ru": "Text Columns with Images Section"
+      }
+    },
+    {
+      "id": "custom",
+      "translations": {
+        "en": "Custom Content Section",
+        "ru": "Custom Content Section"
+      }
+    }
+  ]
+}

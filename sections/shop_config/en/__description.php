@@ -16,6 +16,6 @@
     <li><a href="//docs.shopify.com/manual/your-store/collections">Collections</a></li>
 </ul>
 
-<p class="alert alert-info">If you do not find the answer to your question, you can contact the <a
+<p align="justify" class="alert alert-info">If you do not find the answer to your question, you can contact the <a
         href="//docs.shopify.com/support">Shopify
         Support Team</a>.</p>

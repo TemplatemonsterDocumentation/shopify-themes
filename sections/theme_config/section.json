@@ -1,15 +1,15 @@
 {
   "id": "theme_config",
   "translations": {
-    "en": "Theme Configuration",
-    "ru": "Настройка шаблона"
+    "en": "Main Blocks Customization",
+    "ru": "Настройка основных блоков"
   },
   "articles": [
     {
-      "id": "settings",
+      "id": "blog",
       "translations": {
-        "en": "Theme Settings",
-        "ru": "Настройки темы"
+        "en": "Blog Articles Block Customization",
+        "ru": "Настройка блока Blog Articles"
       }
     },
     {

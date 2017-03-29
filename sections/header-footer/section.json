@@ -1,0 +1,24 @@
+
+{
+  "id": "header-footer",
+  "translations": {
+    "en": "Header & Footer Configuration",
+    "ru": "Настройка Header & Footer"
+  },
+  "articles": [
+     {
+      "id": "header",
+      "translations": {
+        "en": "Header Configuration",
+        "ru": "Настройка Header"
+      }
+    },
+     {
+      "id": "footer",
+      "translations": {
+        "en": "Footer Configuration",
+        "ru": "Настройка Footer"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 <h3>Theme installation</h3>
 <ol class="index-list">
-    <li>Navigate to <strong>Themes</strong>. It contains a default Shopify theme.</li>
+    <li>Navigate to <strong>Themes</strong>. <figure class="img-polaroid"><img alt="" src="img/shopify/01_navigate.png"> </figure>It contains a default Shopify theme.<figure class="img-polaroid"><img alt="" src="img/shopify/02_navigate.png"> </figure></li>
     <li>Click <strong>Upload a theme</strong> button in the upper right corner.
         <figure class="img-polaroid">
             <img alt="" src="img/01_themes.png">

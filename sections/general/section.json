@@ -1,0 +1,44 @@
+{
+  "id": "general",
+  "translations": {
+    "en": "General Theme Configuration",
+    "ru": "Общие настройки шаблона"
+  },
+  "articles": [
+    {
+      "id": "typography",
+      "translations": {
+        "en": "Typography",
+        "ru": "Настройка шрифтов шаблона"
+      }
+    },
+    {
+      "id": "colours",
+      "translations": {
+        "en": "Colours",
+        "ru": "Настройка цветовой палитры шаблона"
+      }
+    },
+    {
+      "id": "favicon",
+      "translations": {
+        "en": "Favicon",
+        "ru": "Настройка иконки сайта"
+      }
+    },
+    {
+      "id": "sharing-buttons",
+      "translations": {
+        "en": "Social Sharing Buttons",
+        "ru": "Настройка кнопок Поделиться"
+      }
+    },
+    {
+      "id": "checkout",
+      "translations": {
+        "en": "Checkout",
+        "ru": "Настройка внешнего вида страницы оплаты"
+      }
+    }
+  ]
+}
