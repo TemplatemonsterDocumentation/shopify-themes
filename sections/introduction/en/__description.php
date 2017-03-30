@@ -48,7 +48,7 @@
                     <dt>
                         <i class="fa fa-folder"></i>
                         <b>assets</b></dt>
-                    <dd>contains styles, scripts and graphics;</dd>
+                    <dd>contains styles, scripts and the theme fonts;</dd>
                 </dl>
             </li>
             <li class="folder">
