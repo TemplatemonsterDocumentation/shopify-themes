@@ -32,7 +32,7 @@
             <dt>
                 <i class="fa fa-file"></i>
                 <b>Screenshots</b></dt>
-            <dd>contains the template screenshots and the link to the theme Live Demo;</dd>
+            <dd>contains the theme screenshots and the link to the theme Live Demo;</dd>
         </dl>
        
 <li class="file">
