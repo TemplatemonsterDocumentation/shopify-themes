@@ -2,11 +2,11 @@
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/footer-70.png" /> </figure>
 </p>
-<p>Go to <strong>Sections</strong> tab.</p>
+<p>Go to the <strong>Sections</strong> tab.</p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/sections.png" /> </figure>
 </p>
-<p>Navigate  to<strong> Footer </strong>section.</p>
+<p>Navigate  to the <strong> Footer </strong>section.</p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/footer.png" /> </figure>
 </p>
