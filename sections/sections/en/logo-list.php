@@ -30,19 +30,19 @@ configuration:</h5>
 <li><strong>Image</strong> — choose a custom image for Logo. You can upload image from your computer or select image from your library;</li>
 <li><strong>Link </strong>— specify a link to a certain Collection, Products, Pages, Blogs or Blog Post.</li></ol>
 
-<p>To add a Logo to display press <strong>Add logo</strong> button. </p>
+<p>To add a Logo to display press the <strong>Add logo</strong> button. </p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/logo-4.png">
   </figure>
 </p>
-<p>Click <strong>Logo </strong>section.</p>
+<p>Click on the <strong>Logo </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/logo-5.png">
   </figure>
 </p>
-<p align="justify">Upload desired image from your computer (press <strong>Upload image</strong> button) or select image from your library (press &quot;select from the library&quot;).</p>
+<p align="justify">Upload desired image from your computer (press the <strong>Upload image</strong> button) or select image from your library (press &quot;select from the library&quot;).</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/logo-6.png">

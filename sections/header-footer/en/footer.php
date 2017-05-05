@@ -63,7 +63,7 @@ enable/disable these logos to meet your needs.</p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-20.png" /> </figure>
 </p>
-<p>Press <strong>Add menu</strong> button. </p>
+<p>Press the <strong>Add menu</strong> button. </p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-21.png" /> </figure>
 </p>

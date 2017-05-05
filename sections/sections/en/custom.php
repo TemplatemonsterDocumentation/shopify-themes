@@ -66,7 +66,7 @@
 
 <li><strong>Heading</strong> — add the title of the text block;</li>
 <li>
-  <div align="justify"><strong>Text</strong> —  input the text you want to display within the block. You can italicize text (press &quot;I&quot; button) or  mark it in bold  (press &quot;B&quot; button);</div>
+  <div align="justify"><strong>Text</strong> —  input the text you want to display within the block. You can italicize text (press the &quot;I&quot; button) or  mark it in bold  (press the &quot;B&quot; button);</div>
 </li>
 <li><strong>Text alignment</strong> —  select a suitable  column text alignment from the option dropdown (Left/Centered/Right);</li></ol>
 <p><strong>Video</strong></p><p>
@@ -100,7 +100,7 @@
 <li><strong>HTML</strong> — enter the custom HTML in this field;</li>
 <li><strong>Container width</strong> — choose a suitable container width from the option dropdown (25/33/50/66/75/100%).</li>
   </ol>
-<p>To add a new <strong>Custom Block</strong>  press <strong>Add content</strong> button. </p>
+<p>To add a new <strong>Custom Block</strong>  press the <strong>Add content</strong> button. </p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/custom-11.png">
@@ -112,7 +112,7 @@
       <img alt="" src="img/custom-12.png">
   </figure>
 </p>
-<p align="justify">Click<strong> Content</strong> (Image/Talk about your brand/Video/Product/Collection/Custom HTML) section and configure the custom content block options.</p>
+<p align="justify">Click the <strong> Content</strong> (Image/Talk about your brand/Video/Product/Collection/Custom HTML) section and configure the custom content block options.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/custom-13.png">

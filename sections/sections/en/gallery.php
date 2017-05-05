@@ -34,19 +34,19 @@ configuration:</h5>
 <li><strong>Link</strong> — specify a link to a certain Collection, Product, Pages, Blogs or Blog Post;</li>
 <li><strong>Caption </strong>(optional) —   enter  the <strong>Caption</strong> (words printed above  a picture). </li></ol>
 
-<p>To add an image to gallery section press <strong>Add image</strong> button. You can display <strong>four</strong> images maximum.</p>
+<p>To add an image to gallery section press the <strong>Add image</strong> button. You can display <strong>four</strong> images maximum.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/gallery-4.png">
   </figure>
 </p>
-<p>Click <strong>Image </strong>section.</p>
+<p>Click on the <strong>Image </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/gallery-5.png">
   </figure>
 </p>
-<p align="justify">Upload desired image from your computer (press <strong>Upload image</strong> button) or select image from your library (press &quot;<strong>select from the library</strong>&quot;).</p>
+<p align="justify">Upload desired image from your computer (press the <strong>Upload image</strong> button) or select image from your library (press the &quot;<strong>select from the library</strong>&quot; button).</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/gallery-6.png">
@@ -70,7 +70,7 @@ configuration:</h5>
       <img alt="" src="img/gallery-9.png">
   </figure>
 </p>
-<p>You can delete picture from the Gallery section (press <strong>Delete</strong> button).</p>
+<p>You can delete picture from the Gallery section (press the <strong>Delete</strong> button).</p>
 <p> <strong>Example: </strong></p>
 <p>
   <figure class="img-polaroid">

@@ -1,5 +1,5 @@
 <h3>Theme Settings</h3>
-<p>Click <strong>Customize theme</strong> button to open the settings editor page where you can change the appearance
+<p>Press the <strong>Customize theme</strong> button to open the settings editor page where you can change the appearance
     and content of the theme. This is <strong>Live editor</strong>: you can track changes in the appearance of your
     store without reloading the page.
 </p>

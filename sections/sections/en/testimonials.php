@@ -25,13 +25,13 @@ configuration:</h5>
 <li><strong>Quote Text</strong> —  add the content of the testimonial;</li>
 <li><strong>Quote Author </strong>  — add the author's name.</li>
 </ol>
-<p>To add a Logo to display press <strong>Add quote</strong> button. </p>
+<p>To add a Logo to display press the <strong>Add quote</strong> button. </p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/testimonials-4.png">
   </figure>
 </p>
-<p>Click<strong> Quote </strong>section.</p>
+<p>Click on the <strong> Quote </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/testimonials-5.png">

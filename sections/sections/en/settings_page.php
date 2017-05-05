@@ -141,7 +141,7 @@
     <img alt="" src="img/06_settings_olark__2.png">
 </figure>
 
-<p>Click <strong>Publish changes</strong> button at the top right.</p>
+<p>Click on the <strong>Publish changes</strong> button at the top right.</p>
 
 <p>Additional Information:</p>
 
@@ -196,8 +196,8 @@
         href="http://www.cookielaw.org/the-cookie-law/">Cookie Law</a>. Widget can be managed in the <strong>Cookies
         Policy</strong> section:</p>
 
-<p>You can enable/disable the widget, edit text, the period during which the message will not be displayed (by pressing
-    <strong>OK</strong> button), as well as redirection link in case of user’s refusal (by pressing <strong>NO</strong>
+<p>You can enable/disable the widget, edit text, the period during which the message will not be displayed (by pressing the
+    <strong>OK</strong> button), as well as redirection link in case of user’s refusal (by pressing the <strong>NO</strong>
     button).</p>
 
 <figure class="img-polaroid">
@@ -211,5 +211,5 @@
 
 <h4>Additional Layouts</h4>
 
-<p>Managing additional layouts of the pages. You can navigate to <strong>Themes > Template Editor > Layouts</strong> to
+<p>Managing additional layouts of the pages. You can navigate to the <strong>Themes > Template Editor > Layouts</strong> section to
     add, remove or edit the layout of the pages.</p>

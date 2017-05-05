@@ -42,19 +42,19 @@
 <li><strong>Button label </strong>— specify the buttons' text;</li>
 <li><strong>Button Link</strong> — specify a link to a certain Collection, Products, Pages, Blogs or Blog Post.</li></ol>
 
-<p>To add a new column to display press <strong>Add column</strong> button. </p>
+<p>To add a new column to display press the <strong>Add column</strong> button. </p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/text-images-3.png">
   </figure>
 </p>
-<p>Click<strong> Add a title or tagline </strong>section.</p>
+<p>Click on the <strong> Add a title or tagline </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/text-images-4.png">
   </figure>
 </p>
-<p align="justify">Upload desired image from your computer (press <strong>Upload image</strong> button) or select image from your library (press &quot;select from the library&quot;).</p>
+<p align="justify">Upload desired image from your computer (press the <strong>Upload image</strong> button) or select image from your library (press &quot;select from the library&quot;).</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/text-images-5.png">

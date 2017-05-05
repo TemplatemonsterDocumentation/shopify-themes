@@ -35,6 +35,13 @@
                 <b>Screenshots</b></dt>
             <dd>папка со скриншотами шаблона и ссылкой на Live Demo шаблона;</dd>
         </dl>
+        <li class="file">
+        <dl class="inline-term">
+            <dt>
+                <i class="fa fa-file"></i>
+                <b>Images</b></dt>
+            <dd>папка собержит все изображения, которые были использованы в шаблоне;</dd>
+        </dl>
        
 <li class="file">
         <dl class="inline-term">

@@ -23,13 +23,13 @@ configuration:</h5>
 <li><strong>Show 'View all' button</strong> —   tick to show the View all button; </li>
 <li><strong>Collection</strong> — choose the collection of products you want to display. </li></ol>
 
-<p>To add a collection to display press <strong>Add collection</strong> button. </p>
+<p>To add a collection to display press the <strong>Add collection</strong> button. </p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/collection-4.png">
   </figure>
 </p>
-<p>Click <strong>Collection </strong>section.</p>
+<p>Click on the <strong>Collection </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/collection-5.png">

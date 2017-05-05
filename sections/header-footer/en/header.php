@@ -167,7 +167,7 @@
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-61.png" /> </figure>
 </p>
-<p>Click menu <strong>Item </strong>section.</p>
+<p>Click on the menu <strong>Item </strong>section.</p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/gallery-5.png" /> </figure>
 </p>
@@ -202,7 +202,7 @@
     <img alt="" src="img/header-29.png">
   </figure>
 </p>
-<p>Press<strong> Create collection </strong>button. </p>
+<p>Press the <strong> Create collection </strong>button. </p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/header-30.png">
@@ -237,7 +237,7 @@
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-34.png" /> </figure>
 </p>
-<p>Press<strong> Add product</strong> button. </p>
+<p>Press the<strong> Add product</strong> button. </p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-35.png" /> </figure>
 </p>
@@ -261,7 +261,7 @@
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-38.png" /></figure>
 </p>
-<p>Press<strong> Add page</strong> button. </p>
+<p>Press the<strong> Add page</strong> button. </p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-39.png" /></figure>
 </p>
@@ -287,7 +287,7 @@
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-43.png" /></figure>
 </p>
-<p>Click <strong>Add Blog</strong> button.</p>
+<p>Click on the <strong>Add Blog</strong> button.</p>
 <p>
   <figure class="img-polaroid"> <img alt="" src="img/header-44.png" /></figure>
 </p>
@@ -348,7 +348,7 @@
     <img alt="" src="img/header-20.png">
   </figure>
 </p>
-<p>Press <strong>Add menu</strong> button. </p>
+<p>Press the <strong>Add menu</strong> button. </p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/header-21.png">

@@ -1,5 +1,5 @@
 <h2 class="item4">Header &amp; Footer Configuration</h2>
-<p>Navigate to <strong>Online Store &gt; Themes</strong>.</p>
+<p>Navigate to the <strong>Online Store &gt; Themes</strong> section.</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/header-11.png">

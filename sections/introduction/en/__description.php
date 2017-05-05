@@ -1,8 +1,9 @@
 <h2 class="item1">Introduction
+
 </h2>
-<h6 align="justify">Congratulations on your purchase of a Shopify template! This documentation consists of several parts and describes the installating, creating and setting up a Shopify website process. </h6>
-<h6 align="justify">We did our best to make this manual information to be presented in a simple, straightforward manner. For ease of reference, the text the manual provides has been restructured in different chapters, you can see in the leftside menu. You are able to navigate to any part of the documentation, using the active content headers' links. </h6>
-<h6 align="justify">We recommend you start reading the documentation at the first section.</h6>
+<h6 align="justify">Congratulations on your purchase of the Shopify template! This documentation consists of several parts and describes the   installation, creation and setting up an OpenCart website process.</h6>
+<h6 align="justify">We did our best to make this manual information to   be presented in a simple, straightforward manner. For ease of reference,   the text the manual provides has been restructured in different   chapters, you can see in the left-side menu.  You are able to navigate   to any part of the documentation using the active content headers'   links.</h6>
+<h6 align="justify">We recommend that you start reading the documentation at the first section.</h6>
 <h3>What is Shopify platform?</h3>
 
 <p><a href="//www.shopify.com/?ref=templatemonster1">Shopify</a> is an online eCommerce platform for creating online stores. The system is
@@ -33,6 +34,13 @@
                 <i class="fa fa-file"></i>
                 <b>Screenshots</b></dt>
             <dd>contains the theme screenshots and the link to the theme Live Demo;</dd>
+        </dl>
+       <li class="file">
+        <dl class="inline-term">
+            <dt>
+                <i class="fa fa-file"></i>
+                <b>Images</b></dt>
+            <dd>contains  images that were used in the theme;</dd>
         </dl>
        
 <li class="file">

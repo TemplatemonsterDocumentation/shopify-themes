@@ -38,19 +38,19 @@
 <li><strong>Subheading</strong> —  	input the text you want to display on the slide;</li>
 <li><strong>Button  text </strong>— specify the button text;</li>
 <li><strong>Button Link</strong> — specify a link to a certain Collection, Products, Pages, Blogs or Blog Post.</li></ol>
-<p>To add a slide to  slider press <strong>Add image slide</strong> button. You can add<strong> five</strong> slides maximum.</p>
+<p>To add a slide to  slider press the <strong>Add image slide</strong> button. You can add<strong> five</strong> slides maximum.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/slideshow-3.png">
   </figure>
 </p>
-<p>Click <strong>Image slide </strong>section.</p>
+<p>Click on the <strong>Image slide </strong>section.</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/slideshow-4.png">
   </figure>
 </p>
-<p align="justify">Upload desired image from your computer (press <strong>Upload image</strong> button) or select image from your library (press &quot;<strong>select from the library</strong>&quot;).</p>
+<p align="justify">Upload desired image from your computer (press the <strong>Upload image</strong> button) or select image from your library (press &quot;<strong>select from the library</strong>&quot;).</p>
 <p>
     <figure class="img-polaroid">
       <img alt="" src="img/slideshow-5.png">
@@ -74,4 +74,4 @@
       <img alt="" src="img/slideshow-8.png">
   </figure>
 </p>
-<p>You can delete slide from the<strong> Slideshow</strong> section (press <strong>Delete</strong> button).</p>
+<p>You can delete slide from the<strong> Slideshow</strong> section (press the <strong>Delete</strong> button).</p>
