@@ -4,14 +4,14 @@
     <img alt="" src="img/header-70.png">
   </figure>
 </p>
-<p>Go to <strong>Sections</strong> tab.</p>
+<p>Go to the <strong>Sections</strong> tab.</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/sections.png">
   </figure>
 </p>
 
-<p>Navigate  to <strong>Header</strong> section.</p>
+<p>Navigate  to the <strong>Header</strong> section.</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/header.png">
@@ -34,7 +34,7 @@
   </figure>
 </p>
 <p align="justify"><strong>Image Logo</strong></p>
-<p align="justify">You are able to <strong>Upload</strong> desired image from your computer or select image from your library. Select<strong> Upload image  </strong>or <strong>Select from the library</strong> from the <strong>Update</strong> dropdown.</p>
+<p align="justify">You are able to <strong>Upload</strong> the desired image from your computer or select image from your library. Select<strong> Upload image  </strong>or <strong>Select from the library</strong> from the <strong>Update</strong> dropdown.</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/header-5.png">
