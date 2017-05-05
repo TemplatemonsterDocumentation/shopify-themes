@@ -6,7 +6,7 @@
   </figure>
 </p>
 <p>Select the theme you want to modify. </p>
-<p>Click <strong>Customize theme</strong> button to open the settings editor page where you can change the appearance
+<p>Click the <strong>Customize theme</strong> button to open the settings editor page where you can change the appearance
 and content of the theme.</p>
 <p>
   <figure class="img-polaroid">
