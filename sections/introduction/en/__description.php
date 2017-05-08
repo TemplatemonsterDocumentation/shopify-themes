@@ -115,7 +115,7 @@
                     <dt>
                         <i class="fa fa-folder"></i>
                         <b>sections</b></dt>
-                    <dd>contains the template sections mark-up files;</dd>
+                    <dd>contains the theme sections mark-up files;</dd>
                 </dl>
             <li class="folder">
                 <dl class="inline-term">
