@@ -40,7 +40,7 @@ configuration:</h5>
   </figure>
   
   <li><strong>Carousel rows</strong> — you can set one or two rows carousel.</li>
-  <li><strong>Carousel direction </strong>— choose the calousel direction. Note, the <strong>Two-way</strong> direction works for <strong>Two Rows</strong> mode only.</li>
+  <li><strong>Carousel direction </strong>— choose the carousel direction. Note, the <strong>Two-way</strong> direction works for <strong>Two Rows</strong> mode only.</li>
    <figure class="img-polaroid">
     <img alt="" src="img/products-carousel-7.jpg">
   </figure>
