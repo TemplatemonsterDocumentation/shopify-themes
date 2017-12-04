@@ -73,14 +73,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </a>
         </div>
         <div class="panel">
-            <!-- <div class="select select-version">
+         <div class="select select-version">
                 <select>
-                    <option data-href="#">Version v3-0</option>
-                    <option data-href="#" selected>Version v3-1</option>
-                    <option data-href="#">Version v2-4</option>
-                    <option data-href="#">Version v2-3</option>
+                    
+                    <option data-href="#" selected>Version v2-1</option>
+                  
                 </select>
-            </div>-->
+            </div>
             <div class="select select-lang">
                 <select>
                     <option
