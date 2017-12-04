@@ -17,7 +17,7 @@
 <figure class="img-polaroid">
     <img alt="" src="img/product-badge-1.jpg">
   </figure>
-  <li><strong>'Sale' marker type</strong> — set the &quot;Sale&quot; label type (Text or Percent). The &quot;Sale&quot; label appears automaticaly after the <strong>Compare at price</strong> is set under the <strong>Products</strong> &gt; <strong>All products</strong> section, in case the <strong>Show badge on product </strong>option  is activated. </li>
+  <li><strong>'Sale' marker type</strong> — set the &quot;Sale&quot; label type (Text or Percent). The &quot;Sale&quot; label appears automatically after the <strong>Compare at price</strong> is set under the <strong>Products</strong> &gt; <strong>All products</strong> section, in case the <strong>Show badge on product </strong>option  is activated. </li>
 
 <figure class="img-polaroid">
     <img alt="" src="img/product-badge-3.jpg">
