@@ -6,20 +6,20 @@
     <img alt="" src="img/new-page.jpg">
 </figure>
 <p>Click the<strong> Add page </strong>button.</p>
-<p>Enter the <strong>Title</strong> for the page <strong>(1)</strong>. Note, the title is visiable on the frontend.</p>
+<p>Enter the <strong>Title</strong> for the page <strong>(1)</strong>. Note, the title is visible on the frontend.</p>
 <p>Set the page as <strong>Visible (2)</strong> and select the template for this page <strong>(3)</strong>.</p>
 <p><strong>Save</strong> the page <strong>(4)</strong>.</p>
 <figure class="img-polaroid">
   <img alt="" src="img/wishlist-2.jpg">
 </figure>
-<h5>Let's review the options avaliable:</h5>
+<h5>Let's review the options available:</h5>
 <figure class="img-polaroid">
     <img alt="" src="img/wishlist.jpg">
 </figure>
 <ol class="marked-list">
   <li>Activate the <strong>Enable wishlist </strong>option to use the &quot;Wishlist&quot; functionality for your store.</li>
   
-  <li>Then choose the the page for the wishlist.</li>
+  <li>Then choose the page for the wishlist.</li>
 
 
 
@@ -29,5 +29,5 @@
 <ol class="marked-list">
 
   <li><strong>Product image size</strong> — set the products image size (Amall/Medium/Large)</li>
-  <li><strong>Product image alignment</strong> — choose the aligment type for the product images</li>
+  <li><strong>Product image alignment</strong> — choose the alignment type for the product images</li>
 </ol>
