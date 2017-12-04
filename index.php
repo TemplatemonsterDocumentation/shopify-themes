@@ -76,7 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <div class="select select-version">
                 <select>
                     
-                    <option data-href="#" selected>Version v2-1</option>
+                    <option data-href="v2-1" selected>Version v2-1</option>
                   
                 </select>
             </div>
