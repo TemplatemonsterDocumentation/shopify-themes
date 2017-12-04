@@ -41,6 +41,13 @@
       }
     },
     {
+      "id": "instagram",
+      "translations": {
+        "en": "Instagram Section",
+        "ru": "Instagram Section"
+      }
+    },
+    {
       "id": "logo-list",
       "translations": {
         "en": "Logo List Section",
@@ -59,6 +66,13 @@
       "translations": {
         "en": "Featured Prodcts Section",
         "ru": "Featured Prodcts Section"
+      }
+    },
+     {
+      "id": "products-carousel",
+      "translations": {
+        "en": "Products Carousel Section",
+        "ru": "Products Carousel Section"
       }
     },
     {

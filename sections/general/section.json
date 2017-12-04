@@ -26,6 +26,13 @@
         "ru": "Настройка иконки сайта"
       }
     },
+     {
+      "id": "sidebar",
+      "translations": {
+        "en": "Sidebar",
+        "ru": "Sidebar"
+      }
+    },
     {
       "id": "sharing-buttons",
       "translations": {
@@ -33,11 +40,32 @@
         "ru": "Настройка кнопок Поделиться"
       }
     },
+     {
+      "id": "product-badge",
+      "translations": {
+        "en": "Product Badge",
+        "ru": "Product Badge"
+      }
+    },
+    {
+      "id": "newsl",
+      "translations": {
+        "en": "Newsletter Popup",
+        "ru": "Newsletter Popup"
+      }
+    },
     {
       "id": "checkout",
       "translations": {
         "en": "Checkout",
         "ru": "Настройка внешнего вида страницы оплаты"
+      }
+    },
+    {
+      "id": "wishlist",
+      "translations": {
+        "en": "Wishlist",
+        "ru": "Wishlist"
       }
     }
   ]
