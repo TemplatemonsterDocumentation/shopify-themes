@@ -2,6 +2,9 @@
 	"introduction",
 	"template_installation",
 	"shop_config",
-  	"theme_config",
+	"header-footer",
+  	"general",
+  	"sections",
+  	"password",
 	"addendum"
 ]
