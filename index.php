@@ -16,7 +16,7 @@ if (!isset($sections)) {
     <link rel="icon" href="<?php echo $path; ?>/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
-    <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
+    <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css?v1">
     <link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="<?php echo $path; ?>/css/prettify.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/jquery.fancybox.css">
@@ -66,6 +66,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Domain doesn't match. Google Tag Manager no added -->
 <?php endif; ?>
 <div class="page-wrap">
+<!-- Chat ======================================================== -->
+<div class="zemez-chat-wrap">
+    <form class="zemez-chat" id="zemez-chat" method="GET">
+        <i id="zemez-chat-close" onclick="closeChat()"></i>
+        <input type="text" placeholder="Name:" name="uname" id="uname">
+        <input type="email" placeholder="Email Address:" name="umail" id="umail">
+        <span onclick="startChat()">Start chat</span>
+    </form>
+</div>
     <div class="rd-mobilemenu active">
         <div class="logo">
             <a href="<?php echo $path; ?>/">
@@ -170,7 +179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 
-<script src="<?php echo $path; ?>/js/script.js"></script>
+<script src="<?php echo $path; ?>/js/script.js?v1"></script>
 
 </body>
 </html>
