@@ -1,6 +1,16 @@
 <h3>Footer</h3>
+<p>Footer section settings allow choosing footer background color, footer block background, footer bottom panel background, using inverted color for footer text, and using the inverted color for footer bottom panel text. There’s also an option to change the footer top padding in the range of 0 to 100 px.
+</p>
+<p>The footer content can include 1-4 blocks available to choose from:</p>
+<ul class="marked-list">
+    <li>Linklist - the list of links;</li>
+    <li>About block - the 100x60px logo image with the description text;</li>
+    <li>Newsletter - subscription block with social menu included;</li>
+    <li>Contacts block - address, phone, and e-mail.</li>
+</ul>
+
 <p>
-  <figure class="img-polaroid"> <img alt="" src="img/footer-70.png" /> </figure>
+  <figure class="img-polaroid"> <img alt="" src="img/footer_1.png" /> </figure>
 </p>
 <p>Go to the <strong>Sections</strong> tab.</p>
 <p>

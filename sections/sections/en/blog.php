@@ -10,6 +10,7 @@
 </p>
 <h5>Let's review the Blog Articles section
 configuration:</h5>
+<p>This section settings allow you to set the title of the section, the background color, blog and the number of recent articles to display (3, 6 or 9), as well as the <strong>Small 370х208</strong>, <strong>Medium 370x308</strong> or <strong>Large 370x493рх</strong> image size. You can align the image by the top/bottom edges or by the center. The text can be placed in the usual way or over the image. You can also enable the author’s name display and the <strong>&quot;View all&quot;</strong>button which will lead to the blog page.</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/blog-1.png">

@@ -22,6 +22,43 @@
 
 <p>You can use system fonts as well as <a href="//www.google.com/fonts">Google Fonts</a>.</p>
 
+<p>The font, size, and the color of the main text:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_1.png">
+</figure>
+
+<p>The font, size, and the color of the titles:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_3.png">
+</figure>
+
+<p>Links color - regular and on hover:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_2.png">
+</figure>
+
+<p>Product name font size, product name color, and its color on hover:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_4.png">
+</figure>
+
+<p>Product price color and sale price color:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_5.png">
+</figure>
+
+<p>Section headers background color and alignment:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_6.png">
+</figure>
+
+
 <p class="alert alert-warning"><b>Attention!</b> The font size should be set in pixels (for example, <b>12px</b>),
     colors in octal
     format (for example, <b>#aabbcc</b>, you can also select the color from the available palette).</p>

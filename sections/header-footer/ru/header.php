@@ -1,7 +1,9 @@
 <h3>Header</h3>
+
+
 <p>
-  <figure class="img-polaroid">
-    <img alt="" src="img/header-70.png">
+   <figure class="img-polaroid">
+    <img alt="" src="img/header_1.png">
   </figure>
 </p>
 <p>Перейдите во вкладку <strong>Sections</strong>.</p>
@@ -17,8 +19,22 @@
     <img alt="" src="img/header.png">
   </figure>
 </p>
-<p>Для установленной темы будут доступны следующее настройки: </p>
+<p>Секция хедера имеет следующие настройки:</p>
+<p> &nbsp добавление изображения логотипа с изменением размера изображения по ширине от 100 до 200рх и по высоте от 30 до 80рх.
+Также возможно использовать текстовое лого с названием магазина. </p>
+
 <figure class="img-polaroid"><img alt="" src="img/header-4.png"></figure>
+
+<p>Настройка топ панели хедера включает следующие пункты:</p>
+<ul class="marked-list" >
+  <li>текст топ панели</li> 
+  <li>цвет фона </li> 
+  <li>инвертированный стиль для текста(опция необходима, если установлен фон темного цвета )</li> 
+</ul>
+
+<figure class="img-polaroid"><img alt="" src="img/topPanel.png"></figure>
+
+
 <h4><strong>Logo</strong></h4>
 
 <p>В этой секции вы можете настроить <strong> логотип-изображение </strong>или <strong> текстовый логотип </strong> для вашего сайта. </p>
@@ -118,11 +134,12 @@
 </p>
 <h4><strong>Search Form</strong> (Поле поиска)</h4>
 <p>Для того, чтобы показать <strong>Поле поиска </strong>на вашем сайте, поставьте галочку в поле опции.</p>
-<p>
-  <figure class="img-polaroid">
-    <img alt="" src="img/header-16.png">
-  </figure>
-</p>
+
+<figure class="img-polaroid"><img alt="" src="img/searchForm.png"></figure>
+
+<p>Пользователь может включить отображение в топ панели поисковой формы а также включить ajax search для быстрой подгрузки результатов поиска при введении в поле  поисковой формы более 3 символов. </p>
+<figure class="img-polaroid"><img alt="" src="img/search_1.png"></figure>
+
 <p><strong>Frontend:</strong></p>
 <p>Поле поиска (Search Form) — <strong>включено</strong>. </p><p>
   <figure class="img-polaroid">
@@ -135,6 +152,40 @@
     <img alt="" src="img/header-18.png">
   </figure>
 </p>
+
+<h4><strong>Account Links</strong></h4>
+<p>Данный функционал отображает ссылки на страницу аккаунта и выхода из него. Опция аккаунта должна быть включена в админ панели в пункте Settings - Checkout в разделе Customer accounts.</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/accLinks_1.png">
+  </figure>
+</p>
+
+<h4><strong>Настройка основного хедера</strong></h4>
+<p>Администратор магазина может:</p>
+<ul class="marked-list" >
+  <li>Задать цвет фона, использовать инвертированный цвет текста хедера и задать цвет ховера для активных элементов хедера
+      <figure class="img-polaroid">
+        <img alt="" src="img/mainHeader.png">
+      </figure></li>
+  <li>Включить отображение мегаменю в блоке хедера
+      <figure class="img-polaroid">
+        <img alt="" src="img/megamenu.png">
+      </figure></li>
+  <li>Включить отображение корзины и использование аякс корзины для показа добавленных товаров и быстрого их удаления.
+    <figure class="img-polaroid">
+      <img alt="" src="img/shoppingCart.png">
+    </figure>
+    либо полной очистки корзины.
+    <figure class="img-polaroid">
+      <img alt="" src="img/cart_2.png">
+    </figure>
+  </li>
+</ul>
+
+
+
+
 <h4><strong>Главное меню (Megamenu</strong>)</h4>
 
 <p align="justify">Наши шаблоны поставляются с виджетом Megamenu, с помощью которого вы можете построить мощное и функциональное главное
@@ -152,6 +203,12 @@
     <li>ссылка с выпадающим меню с 4-мя   колонками ссылок (<strong>Link + 4 linklist</strong>s);</li>
     <li>
       <div align="justify">ссылка с перечнем продуктов (<strong>Link + product listing</strong>).  Категория отображаемых продуктов задается самостоятельно. В субменю будет отображаться 4 товара нового поступления  с изображением данного товара (4 последних добавленных товара в заданной категорию);</div>
+    </li>
+    <li>
+      <div align="justify"> ссылка с 4 баннерами и 4 колонками ссылок под ними (<strong>4 linklists + 4 banners</strong>);</div>
+    </li>
+    <li>
+      <div align="justify"> сылка с 12 баннерами со ссылками и текстом под ними (<strong>Link + 12 banners</strong>);</div>
     </li>
   <li>
       <div align="justify">ссылка блога (<strong>Link + blog listing</strong>). Категория блога задается самостоятельно.  В субменю будет отображаться 4 последних поста  с вводным изображением данного  (4 последних добавленных поста в заданной категорию блога). </div>

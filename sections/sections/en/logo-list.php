@@ -1,10 +1,35 @@
 <h3>Logo List</h3>
 <p align="justify">This functionality enables you to display a number of   Logos in a grid with a link to a certain Collection, Products, Pages, Blogs or Blog Post.</p>
+<p>Logo list section settings allow you to set the title, choose between the 4 block size options: <strong>Extra Small</strong> (170x78), <strong>Small</strong> (170x119), <strong>Medium</strong> (170x124), <strong>Large</strong> (170x132), set the background color for the section, define the separate background for the blocks (only for the icon type blocks), select the blocks text color (only for the icon type blocks), set the icon and text alignment for the <strong>icon type</strong> blocks:
+</p>
+<p>regular (below the icon):
+</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/logo-1.png">
+    <img alt="" src="img/logo-list_2.png">
   </figure>
-  
+</p>
+<p>or in one line (beside the icon):
+</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_1.png">
+  </figure>
+</p>
+<p>You may add up to 12 blocks of 2 types: logo or icon. In case you add more than 6 blocks, they will show up in a carousel. 
+</p>
+<p><strong>Logo block</strong> allows adding an image and a link. 
+</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_3.png">
+  </figure>
+</p>
+<p><strong>Icon block</strong> allows choosing one of the 20 predefined icons, add the text and the link.</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_4.png">
+  </figure>
 </p>
 <h5>Let's review the Logo List section
 configuration:</h5>

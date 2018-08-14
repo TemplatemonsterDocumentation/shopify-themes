@@ -1,12 +1,15 @@
 <h3>Colours
 </h3>
 <p align="justify">В этом разделе вы можете настравать цвета шаблона. Вы можете выбрать цвет из цветовой палитры. Используйте Hex Color Code, чтобы найти нужный цвет. Напр., #58d68d. </p>
-<p>
-  <figure class="img-polaroid">
-    <img alt="" src="img/colour.png">
-  </figure>
-  
-</p>
+<p>Во вкладке Colors</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/colors_1.png">
+</figure>
+
+<p>Вы можете выбрать цвет страницы, цвет границ, цветовую схему из двух основных цветов и цвет кнопок.</p>
+
+
 
   <p>Секция имеет два подраздела:<strong> Page colors</strong> и <strong>Color theme</strong>.</p>
 <p>Более подробно рассмотрим возможности настройки цветов сайта:</p>

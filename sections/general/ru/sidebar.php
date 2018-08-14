@@ -3,16 +3,19 @@
 
 </h3>
 <h4>General settings</h4>
+
+<p>В разделе Sidebar возможен выбор отображения боковой колонки на странице листинга продуктов и странице блога и  его расположения по правому или левому краю.
+</p>
 <ol class="index-list">
-  <li>Enable the <strong>Show sidebar</strong> option to display sidebar</li>
-  <li>Choose the sidebar position. </li>
-  <li>Remember to <strong>Save</strong> the settings.</li>
+  <li>Включить опцию <strong>Show sidebar</strong> для отображения боковой панели</li>
+  <li>Выберите позицию боковой панели. </li>
+  <li>Не забудьте <strong> Сохранить </strong> настройки.</li>
 </ol>
 <figure class="img-polaroid">
     <img alt="" src="img/sidebar.jpg">
 </figure>
-<h4>Sidebar widgets for the Collection and Blog page</h4>
-<p>Move to the <strong>Sections</strong> tab and click on the <strong>Sidebar</strong> tab.</p>
+<h4>Виджеты боковой панели для страницы Коллекция и блог</h4>
+<p>Перейдите на вкладку <strong>Sections</strong> и щелкните вкладку <strong>Sidebar</strong> .</p> 
 <figure class="img-polaroid">
     <p><img alt="" src="img/sidebar-1.jpg">
     </p></figure>

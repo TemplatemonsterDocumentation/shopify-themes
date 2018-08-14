@@ -8,6 +8,20 @@
 </p>
 <h5>Let's review the Gallery section
 configuration:</h5>
+<p>In the gallery section settings, it is possible to choose the height of the section blocks: <strong>small</strong>, <strong>medium</strong>, <strong>big</strong>.
+change the display style of the blocks to ‘Boxed’ (the blocks are enclosed in the container and have indents in between); and select one of 3 display styles.
+</p>
+<p>
+  <figure class="img-polaroid">
+    <p>Style 1</p>
+    <img alt="" src="img/gallery-style_1.png">
+    <p>Style 2</p>
+    <img alt="" src="img/gallery-style_2.png">
+    <p>Style 3</p>
+    <img alt="" src="img/gallery-style_3.png">
+  </figure>
+  
+</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/gallery-1.png">

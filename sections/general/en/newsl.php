@@ -7,9 +7,21 @@
   
 </p>
 <h5>Let's review the options available:</h5>
+<p>Newsletter tab allows you to access the subscription settings via Shopify native form or Mailchimp depending on your choice.</p>
+
 <figure class="img-polaroid">
-    <img alt="" src="img/newsletter-popup.jpg">
+    <img alt="" src="img/newsl_1.png">
 </figure>
+
+<p>You may also enable and configure a pop-up window for the subscription, selecting its display frequency (in days) and adding the background image.</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/newsl_2.png">
+</figure>
+
+
+
+
 <ol class="marked-list">
   <li>To display the labels, you should first activate the <strong>Enable newsletter popup </strong>option.</li>
   

@@ -1,16 +1,23 @@
 <h3>Instagram Section
 </h3>
 <p>
+	You can set the title and the username for your Instagram feed, add the background of this section, enable the Boxed layout (to show this block in a container), change the text color to inverted (in case of using dark background), define the number of instagram posts for the display in the carousel: 5,7 or 9. </p>
+<p>Setting up the  instagram profile is to add <strong>Instagram user ID</strong> to the appropriate field and <strong>Instagram access token</strong> to its respective field. 
+ </p>
+
   <figure class="img-polaroid">
-    <img alt="" src="img/instagram.jpg">
+    <img alt="" src="img/instagram-1.png">
   </figure>
   
+
+<p>You may use various services to generate these values, for example,  <a href="http://instagram.pixelunion.net/">Pixel Union</a>. Press the  <strong>Generate</strong> button and log into your Instagram profile to do so. </p>
+<p>
+The first 10 digits of the access token are your Instagram user ID, so there’s no strict need to generate the ID separately.
+
 </p>
-<h5>Let's review the Instagram section
-configuration:</h5>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/instagram-1.jpg">
+    <img alt="" src="img/instagram.png">
   </figure>
   
 </p>

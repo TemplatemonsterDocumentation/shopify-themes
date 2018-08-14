@@ -3,8 +3,10 @@
 	"template_installation",
 	"shop_config",
 	"header-footer",
+	"theme_config",
   	"general",
   	"sections",
   	"password",
 	"addendum"
+	
 ]

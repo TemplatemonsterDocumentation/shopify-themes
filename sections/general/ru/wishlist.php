@@ -1,33 +1,37 @@
 <h3>Wishlist</h3>
-<p>A wishlist is an eCommerce feature that allows shoppers to create personalized collections of products they want to buy. </p>
-<h5>Create the new page</h5>
-<p>Login to you Shopify store Admin Panel and go to<strong> Online Store</strong>, then tap <strong>Pages</strong>.</p>
+<p>Wishlist - это функция eCommerce, которая позволяет покупателям создавать персонализированные коллекции продуктов, которые они хотят купить. </p>
+<p>В разделе Wishlist имеется функция списка желаний, а также возможность выбора страницы списка желаний, которую необходимо предварительно создать, используя шаблон page.wishlist.</p>
+<figure class="img-polaroid">
+    <img alt="" src="img/wishL_1.png">
+</figure>
+<h5>Создание новой страницы</h5>
+<p>Войдите в свою панель администратора магазина Shopify и перейдите в <strong> Online Store</strong>, затем нажмите <strong>Pages</strong>.</p>
 <figure class="img-polaroid">
     <img alt="" src="img/new-page.jpg">
 </figure>
-<p>Click the<strong> Add page </strong>button.</p>
-<p>Enter the <strong>Title</strong> for the page <strong>(1)</strong>. Note, the title is visiable on the frontend.</p>
-<p>Set the page as <strong>Visible (2)</strong> and select the template for this page <strong>(3)</strong>.</p>
-<p><strong>Save</strong> the page <strong>(4)</strong>.</p>
+<p>Нажмите кнопку <strong> Add page </strong>.</p>
+<p>Введите  <strong>Title</strong> для страницы <strong>(1)</strong>. Обратите внимание: заголовок отображается во внешнем интерфейсе.</p>
+<p>Задайте страницу как <strong>Visible (2)</strong> и выберите шаблон для этой страницы <strong>(3)</strong>.</p>
+<p>Нажмите <strong>Save</strong> чтоб сохранить страницу <strong>(4)</strong>.</p>
 <figure class="img-polaroid">
   <img alt="" src="img/wishlist-2.jpg">
 </figure>
-<h5>Let's review the options avaliable:</h5>
+<h5>Давайте рассмотрим доступные опции:</h5>
 <figure class="img-polaroid">
-    <img alt="" src="img/wishlist.jpg">
+    <img alt="" src="img/wishlist_1.png">
 </figure>
 <ol class="marked-list">
-  <li>Activate the <strong>Enable wishlist </strong>option to use the &quot;Wishlist&quot; functionality for your store.</li>
+  <li>Активируйте опцию <strong>Enable wishlist </strong>, чтобы использовать функцию  &quot;Wishlist&quot; для вашего магазина.</li>
   
-  <li>Then choose the the page for the wishlist.</li>
+  <li>Затем выберите страницу для wishlist.</li>
 
 
 
 </ol>
-<p>Remember to <strong>Save</strong> the settings.</p>
-<h5>Settings for the Wishlist Page</h5>
+<p>Не забудьте <strong>сохранить </strong> настройки.</p>
+<h5>Настройки для Wishlist Page</h5>
 <ol class="marked-list">
 
-  <li><strong>Product image size</strong> — set the products image size (Amall/Medium/Large)</li>
-  <li><strong>Product image alignment</strong> — choose the aligment type for the product images</li>
+  <li><strong>Product image size</strong> —  задайте размер изображения продукта (Small/Medium/Large)</li>
+  <li><strong>Product image alignment</strong> — выберите тип выравнивания для изображений продукта</li>
 </ol>

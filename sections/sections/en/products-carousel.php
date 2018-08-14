@@ -1,17 +1,20 @@
 <h3>Products Carousel section</h3>
 <p>
+
+
   <figure class="img-polaroid">
     <img alt="" src="img/products-carousel.jpg">
   </figure>
-  
-</p>
+
+<p align="justify">Products carousel has the title and the option for choosing the collection to get the products from for displaying them in the carousel, the background color parameter (if set, there’ll be some extra paddings added, similar to the ‘Featured products’ section), the products number option: 4, 8, 12, 16, 20, the rows number: 1 or 2,  the movement direction of the carousel rows: in one direction or in different ones, and the products image size option: Small (270x190), Medium (270x270), Large(270x341) with its alignment.
+
+
 <h5>Let's review the  Products Carousel section
 configuration:</h5>
-<p>
-  <figure class="img-polaroid">
-    <img alt="" src="img/products-carousel-1.jpg">
-  </figure>
-  
+</p>
+<figure class="img-polaroid">
+    <img alt="" src="img/prod-carousel.png">
+</figure> 
 </p>
 <ol class="marked-list">
   <li><strong>Heading</strong> — add the title of the section.

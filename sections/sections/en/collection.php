@@ -8,11 +8,22 @@
 </p>
 <h5>Let's review the Collection List section
 configuration:</h5>
+<p>The ‘Collection list’ section settings are the following:
+</p>
+<ol class="index-list">
+  <li>The title of the section. </li>
+  <li>Size of the collection image (Small 270x151px, Medium 270x255px, Large 270x360px) and its alignment.</li>
+  <li>Text position: over the image or below it.</li>
+  <li>The ‘View all’ button, leading to the listing page of all the collections.</li>
+</ol>
+<p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/collection-1.png">
   </figure>
   
+</p>
+<p>You can add up to 12 collection blocks (4 per row) into this section. To do this you just need to select the desired collection in the block settings.
 </p>
 <ol class="marked-list">
   <li><strong>Heading</strong> — add the title of the section;

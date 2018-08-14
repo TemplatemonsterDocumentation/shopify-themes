@@ -8,6 +8,23 @@
 </p>
 <h5>Let's review the Image with Text Overlay section
   configuration:</h5>
+<p>The settings allow you to choose the height of the section:  <strong>Small</strong>, <strong>Medium</strong>, <strong>Large</strong> and its display mode: fullwidth or boxed (in the container). It is possible to enable the parallax effect on scroll, choose the alignment for the text (right/left/center), enable the inverted text style, select the text background color, and its opacity.
+Adding the extra blocks will let you compose the image description up to your desire.
+</p>
+<figure class="img-polaroid">
+    <img alt="" src="img/img-text-overlay.png">
+  </figure>
+<p>The following blocks are available for selection:</p>
+<ol class = "index-list">
+  <li>H2 title, with an option of using one of 12 animation effects. </li>
+  <li>H4 title</li>
+  <li>H5 title </li>
+  <li>Text</li>
+  <li>The button with the link.</li>
+</ol>
+
+
+
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/image-with-text-overlay-1.png">

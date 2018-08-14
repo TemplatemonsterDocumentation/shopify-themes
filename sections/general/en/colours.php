@@ -3,7 +3,7 @@
 <p align="justify">Theme color scheme settings. The colors must be specified in hexadecimal format (for example, <strong>#aabbcc</strong>). Also, it is possible to select a color from a palette provided.</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/colour.png">
+    <img alt="" src="img/colors_1.png">
   </figure>
   
 </p>

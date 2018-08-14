@@ -25,6 +25,42 @@
 
 <p>Вы можете использовать как системные шрифты, так и <a href="//www.google.com/fonts">Google Fonts</a>.</p>
 
+<p>Стиль размер и цвет основного текста:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_1.png">
+</figure>
+
+<p>Стиль размер и цвет заголовков:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_3.png">
+</figure>
+
+<p>Цвет текста ссылок и цвет ховера на ссылках:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_2.png">
+</figure>
+
+<p>Размер цвет и цвет ховера названия товара:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_4.png">
+</figure>
+
+<p>Цвет цены товара и цвет скидки:</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_5.png">
+</figure>
+
+<p>Цвет бекграунда заголовков секций и его выравнивание :</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/typography_6.png">
+</figure>
+
 
 
 <h4>Color settings</h4>
@@ -88,70 +124,7 @@
 <p class="alert alert-warning"><b>Внимание!</b> Для сохранения эстетической привлекательности шаблона рекомендуется
     придерживаться размеров изображений, указанных рядом с формой загрузки.</p>
 
-<h4>Custom blocks</h4>
 
-<p>В этом разделе вы можете редактировать баннеры, блоки ссылок, опции социальных аккаунтов, а также другой
-    пользовательский контент, представленный в шаблоне. Для редактирования этих блоков не требуются знания вёрстки или
-    программирования — настройка сводится к простым действиям, таким как ввод текстов, выбор иконок и загрузка
-    изображений.</p>
-
-    <p class="alert alert-warning"><b>Внимание!</b> Для сохранения эстетической привлекательности шаблона рекомендуется
-    придерживаться размеров изображений, указанных рядом с формой загрузки.</p>
-
-<h4>Google maps</h4>
-
-<p>Раздел содержит настройки управления отображения гугл-карт на страницах магазина.</p>
-
-<p>Основные настройки:</p>
-
-<p><strong>Адрес. </strong>Задайте почтовый адрес нужного объекта, и виджет отобразит карту этот объект на карте, с
-    маркером.</p>
-
-<p><strong>Функции показа карты. </strong>Вы можете включить или отключить отображение карты на главной странице или на
-    странице контактов.</p>
-
-
-
-<h4>Olark chat</h4>
-
-<p>В наши шаблоны Shopify встроен виджет для отображения olark-чата, управлять настройками виджета можно в
-    соответствующем разделе.</p>
-<p>Для того, чтобы добавить Olark-чат на страницы своего магазина, выполните следующие действия:</p>
-
-<p>
-    <a href="https://www.olark.com/signup/create_new_account">Зарегистрируйтесь</a> на <a
-        href="https://www.olark.com/install">официальном сайте Olark</a>.
-</p>
-
-<p class="alert alert-info">Вы можете получить пробный бесплатный 6-месячный
-    бронзовый пакет. Для этого перейдите по <a
-        href="http://olark.com/signup/create_new_account/18981?utm_source=templatemonster&utm_medium=offer&utm_campaign=default">ссылке</a>
-    и внесите свои регистрационные данные.</p>
-
-<p>Получите код чата для вашего магазина. </p>
-
-<p>Скопируйте этот код в буфер обмена.</p>
-
-<figure class="img-polaroid">
-    <img alt="" src="img/06_settings_olark__1.png">
-</figure>
-
-<p>В настройках шаблона Shopify откройте раздел <strong>Olark chat</strong>. Отметьте пункт <strong>Enable
-        widget</strong> и вставьте код чата в поле <strong>Chat code</strong>.
-</p>
-
-<figure class="img-polaroid">
-    <img alt="" src="img/06_settings_olark__2.png">
-</figure>
-
-<p>Нажмите кнопку <strong>Publish changes</strong> в верхней части страницы справа.</p>
-
-<p>Дополнительная информация:</p>
-
-<ul class="marked-list">
-    <li><a href="https://www.olark.com/help/guide">Getting started guide</a></li>
-    <li><a href="https://www.olark.com/download/handbook-en-US.pdf?download">The Olark Handbook</a></li>
-</ul>
 
 <h4>Money options</h4>
 

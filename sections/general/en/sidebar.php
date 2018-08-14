@@ -3,6 +3,8 @@
 
 </h3>
 <h4>General settings</h4>
+<p>Sidebar section allows you to define whether to show the sidebar or not on the products listing page and the blog page. You can also choose the right or left position for the sidebar.
+</p>
 <ol class="index-list">
   <li>Enable the <strong>Show sidebar</strong> option to display sidebar</li>
   <li>Choose the sidebar position. </li>

@@ -19,6 +19,27 @@
         "ru": "Collection List Section"
       }
     },
+      {
+        "id": "collection-with-menu",
+        "translations": {
+          "en": "Collection with menu Section",
+          "ru": "Collection with menu Section"
+        }
+      },
+        {
+        "id": "banners",
+        "translations": {
+          "en": "Banners",
+          "ru": "Banners"
+        }
+      },
+      {
+        "id": "banners-countdown",
+        "translations": {
+          "en": "Banners-countdown",
+          "ru": "Banners-countdown"
+        }
+      },
      {
       "id": "gallery",
       "translations": {
@@ -68,6 +89,13 @@
         "ru": "Featured Prodcts Section"
       }
     },
+    {
+      "id": "lookbook",
+      "translations": {
+        "en": "Lookbook",
+        "ru": "Lookbook"
+      }
+    },
      {
       "id": "products-carousel",
       "translations": {
@@ -80,6 +108,20 @@
       "translations": {
         "en": "Single Product Section",
         "ru": "Single Product Section"
+      }
+    },
+    {
+      "id": "products-column",
+      "translations": {
+        "en": "Products column Section",
+        "ru": "Products column Section"
+      }
+    },
+    {
+      "id": "communication",
+      "translations": {
+        "en": "Communication Section",
+        "ru": "Communication  Section"
       }
     },
     {
@@ -108,6 +150,105 @@
       "translations": {
         "en": "Custom Content Section",
         "ru": "Custom Content Section"
+      }
+    },
+    {
+      "id": "divider",
+      "translations": {
+        "en": "Divider Section",
+        "ru": "Divider Section"
+      }
+    },
+    {
+      "id": "collection-list-config",
+      "translations": {
+        "en": "Collections list configuration Section",
+        "ru": "Collections list configuration Section"
+      }
+    },
+    {
+      "id": "collection-page-config",
+      "translations": {
+        "en": "Collections page configuration Section",
+        "ru": "Collections page configuration Section"
+      }
+    },
+    {
+      "id": "sidebar-configuration-on-collection-page",
+      "translations": {
+        "en": "Sidebar configuration on collection page ",
+        "ru": "Sidebar configuration on collection page "
+      }
+    },
+    {
+      "id": "sidebar-sort",
+      "translations": {
+        "en": "Sidebar sort ",
+        "ru": "Sidebar sort "
+      }
+    },
+    {
+      "id": "product-page-configuration",
+      "translations": {
+        "en": "Product page configuration ",
+        "ru": "Product page configuration "
+      }
+    },
+    {
+      "id": "blog-page-configuration",
+      "translations": {
+        "en": "Blog page configuration ",
+        "ru": "Blog page configuration "
+      }
+    }
+    ,
+    {
+      "id": "blog-article-config",
+      "translations": {
+        "en": "Blog article configuration ",
+        "ru": "Blog article configuration "
+      }
+    },
+    {
+      "id": "about-us-page-configuration",
+      "translations": {
+        "en": "About Us page configuration ",
+        "ru": "About Us page configuration "
+      }
+    },
+    {
+      "id": "contact-us-page-configuration",
+      "translations": {
+        "en": "Contact Us page configuration ",
+        "ru": "Contact Us page configuration "
+      }
+    },
+    {
+      "id": "FAQ-page-configuration",
+      "translations": {
+        "en": "FAQ page configuration ",
+        "ru": "FAQ page configuration "
+      }
+    },
+    {
+      "id": "privacy-policy-page-configuration",
+      "translations": {
+        "en": "Privacy Policy page configuration ",
+        "ru": "Privacy Policy page configuration "
+      }
+    },
+    {
+      "id": "services-page-configuration",
+      "translations": {
+        "en": "Services page configuration ",
+        "ru": "Services page configuration "
+      }
+    },
+    {
+      "id": "wishlist-page-configuration",
+      "translations": {
+        "en": "Wishlist page configuration ",
+        "ru": "Wishlist page configuration "
       }
     }
   ]

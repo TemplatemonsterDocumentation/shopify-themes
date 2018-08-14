@@ -7,6 +7,19 @@
   
 </p>
 <h5>Более подробно рассмотрим настройки секции Gallery:</h5>
+<p>В настройках секции галереи возможно выбрать высоту блоков секции <strong>small</strong>, <strong>medium</strong>, <strong>big</strong>.
+Изменить стиль отображения блоков на Boxed, при котором блоки заключены в контейнер и имеют отступы между собой, также выбрать один из 3 стилей отображения.</p>
+<p>
+  <figure class="img-polaroid">
+    <p>Стиль 1</p>
+    <img alt="" src="img/gallery-style_1.png">
+    <p>Стиль 2</p>
+    <img alt="" src="img/gallery-style_2.png">
+    <p>Стиль 3</p>
+    <img alt="" src="img/gallery-style_3.png">
+  </figure>
+  
+</p>
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/gallery-1.png">

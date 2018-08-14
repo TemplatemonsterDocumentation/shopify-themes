@@ -1,11 +1,32 @@
 <h3>Logo List</h3>
 <p align="justify">С помощью этой секции вы сможете добавить секцию с изображением логотипов (Logos) со ссылкой на определенную  Collection (коллекцию), Products (товар), Pages (странице), Blogs (категорию блога) или же Blog Post (статью блога).</p>
+<p>В настройках секции задается заголовок, имеется возможность выбрать 4 варианта размера блока <strong>Extra Small</strong> (170x78), <strong>Small</strong> (170x119), <strong>Medium</strong> (170x124), <strong>Large</strong> (170x132), выбрать цвет фона секции, выбрать цвет фона блоков (только для блоков icon type), выбрать цвет текста блоков  (только для блоков icon type), выбрать позиционирование иконки и текста для блоков <strong>icon type</strong> нормальное:
+</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/logo-1.png">
+    <img alt="" src="img/logo-list_2.png">
   </figure>
-  
 </p>
+<p>или в одну строку:</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_1.png">
+  </figure>
+</p>
+<p>Возможно добавить от 1 до 12 блоков 2-х типов: logo или icon. Если добавлено более 6 блоков, то блоки будут отображаться в карусели. </p>
+<p>В блоке <strong>logo</strong> возможно добавить картинку и ссылку. </p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_3.png">
+  </figure>
+</p>
+<p>В блоке <strong>icon</strong> возможно  выбрать одну из 20 возможных иконок, добавить текст и ссылку.</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/logo-list_4.png">
+  </figure>
+</p>
+
 <h5>Более подробно рассмотрим настройки секции Logo List:</h5>
 <p>
   <figure class="img-polaroid">

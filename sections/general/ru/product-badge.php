@@ -1,5 +1,26 @@
 <h3>Products Badge</h3>
+<p>В разделе <strong>Product</strong> включаются и настраиваются бейджи на товарах. Для отображение бейджа новинки необходимо задать количество дней
+ после публикации товара, на протяжении которых этот продукт будет отмечен как новый. Для бейджа скидки выбрать тип отображения, 
+ в виде размера скидки в процентах либо с текстом &quot;Sale&quot;. </p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_1.png">
+  </figure>
+
+<p>Для использования у продуктов цветовой опции необходимо указать название цветовой опции товара на вашем языке.</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_2.png">
+  </figure>
+
+<p>Включить отображение рамки на изображении продукта.</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_4.png">
+  </figure>
+
 <p>Add  &quot;New&quot; and &quot;Sale&quot; badges  to product images for the collection page. </p>
+
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/product-badge.jpg">

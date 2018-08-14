@@ -1,16 +1,22 @@
 <h3>Instagram Section
 </h3>
+
+
 <p>
+	Имеется возможность задать заголовок и и имя пользователя, добавить цвет фона секции, включить использование Boxed стиля, при котором данный  блок будет выводиться в контейнере, изменить цвет текста на инвертированный (полезно при использовании темного фона), выбрать количество постов инстаграма, показанных в карусели: 5,7 или 9. Настройка профиля инстаграма заключается в добавлении <strong>Instagram user ID</strong> в соответствующее поле и <strong>Instagram access token</strong> в поле для него. </p>
+
   <figure class="img-polaroid">
-    <img alt="" src="img/instagram.jpg">
+    <img alt="" src="img/instagram-1.png">
   </figure>
   
+
+<p>Для их генерации следует воспользоваться различными сервисами, например, <a href="http://instagram.pixelunion.net/">Pixel Union</a>. Вам потребуется нажать на кнопку <strong>генерировать</strong> и  войти в свой инстаграм-профиль. </p>
+<p>
+Instagram user ID генерировать необязательно, достаточно  взять из access token первые 10 цифр до точки.
 </p>
-<h5>Let's review the Instagram section
-configuration:</h5>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/instagram-1.jpg">
+    <img alt="" src="img/instagram.png">
   </figure>
   
 </p>

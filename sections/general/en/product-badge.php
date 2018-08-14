@@ -1,4 +1,23 @@
 <h3>Products Badge</h3>
+<p><strong>Product</strong> tab is used for enabling and configuring product badges. In order to enable the ‘new’ products badge, you need to specify the number of days after the publishing for the product to be marked as ‘new’. The sales badge has to be set as the percent of the full price or the  &quot;Sale&quot; text marker. </p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_1.png">
+  </figure>
+
+<p>You must specify the name of the color option of the product in your language to use color option for products. </p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_2.png">
+  </figure>
+
+<p>There is also an option to enable the border on the product image.
+</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/prod_4.png">
+  </figure>
+
 <p>Add  &quot;New&quot; and &quot;Sale&quot; badges  to product images for the collection page. </p>
 <p>
   <figure class="img-polaroid">

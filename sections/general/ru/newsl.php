@@ -7,8 +7,17 @@
   
 </p>
 <h5>Let's review the options available:</h5>
+
+<p>В разделе Newsletter доступны настройки  функции подписки при помощи Shopify native form или Mailchimp  на выбор.</p>
+
 <figure class="img-polaroid">
-    <img alt="" src="img/newsletter-popup.jpg">
+    <img alt="" src="img/newsl_1.png">
+</figure>
+
+<p>Также  есть возможность включить и настроить всплывающее окно с подпиской, Выбрав его периодичность показа в днях и добавив изображение в качестве фоновой картинки.</p>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/newsl_2.png">
 </figure>
 <ol class="marked-list">
   <li>To display the labels, you should first activate the <strong>Enable newsletter popup </strong>option.</li>

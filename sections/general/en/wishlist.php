@@ -1,5 +1,10 @@
 <h3>Wishlist</h3>
 <p>A wishlist is an eCommerce feature that allows shoppers to create personalized collections of products they want to buy. </p>
+<p>Wishlist tab provides an option to enable wishlist functionality. You can also create a Wishlist page using the &quot;page.wishlist&quot; template, and select it here.
+</p>
+<figure class="img-polaroid">
+    <img alt="" src="img/wishL_1.png">
+</figure>
 <h5>Create the new page</h5>
 <p>Login to you Shopify store Admin Panel and go to<strong> Online Store</strong>, then tap <strong>Pages</strong>.</p>
 <figure class="img-polaroid">

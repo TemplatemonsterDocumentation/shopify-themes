@@ -1,7 +1,7 @@
 <h3>Header</h3>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/header-70.png">
+    <img alt="" src="img/header_1.png">
   </figure>
 </p>
 <p>Go to the <strong>Sections</strong> tab.</p>
@@ -19,6 +19,16 @@
 </p>
 <p>In your installed theme you will see the following options: </p>
 <figure class="img-polaroid"><img alt="" src="img/header-4.png"></figure>
+
+<p>Header top panel settings include the following:</p>
+<ul class="marked-list" >
+  <li>top panel text</li> 
+  <li>background color</li> 
+  <li>inverted text style (this option is required in case of the dark background)</li> 
+</ul>
+
+<figure class="img-polaroid"><img alt="" src="img/topPanel.png"></figure>
+
 <h4><strong>Logo</strong></h4>
 
 <p>In this section you can set your<strong> Image logo</strong> and<strong> Text logo</strong> for your online store. </p>
@@ -119,9 +129,12 @@
 <p>Enable the Checkbox to show <strong>Search Box </strong>on your site. </p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/header-16.png">
+    <img alt="" src="img/searchForm.png">
   </figure>
 </p>
+<p>You can turn on/off the display of the search form in the site header, and enable ‘ajax search’ option for quick loading of search results when entering more than 3 characters into the search form input field. 
+ </p>
+<figure class="img-polaroid"><img alt="" src="img/search_1.png"></figure>
 <p><strong>Frontend:</strong></p>
 <p>Search Form — <strong>enabled</strong>. </p><p>
   <figure class="img-polaroid">
@@ -134,6 +147,38 @@
     <img alt="" src="img/header-18.png">
   </figure>
 </p>
+
+<h4><strong>Account Links</strong></h4>
+<p>This section defines whether to display the account login/logout links. The account option has to be enabled separately in the Settings - Checkout section under the Customer accounts in the website admin panel.</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/accLinks_1.png">
+  </figure>
+</p>
+
+<h4><strong>Main header configuration:</strong></h4>
+<p>The store administrator has an option to:</p>
+<ul class="marked-list" >
+  <li>choose the background color, use inverted text color for header, and set the hover color for the active header elements, 
+      <figure class="img-polaroid">
+        <img alt="" src="img/mainHeader.png">
+      </figure></li>
+  <li>enable megamenu display in the header section,
+      <figure class="img-polaroid">
+        <img alt="" src="img/megamenu.png">
+      </figure></li>
+  <li>enable the display of the cart and turn on the Ajax Cart for the quick display of the added items, and removing them from the cart,
+    <figure class="img-polaroid">
+      <img alt="" src="img/shoppingCart.png">
+    </figure>
+    or the full cart cleanup.
+    <figure class="img-polaroid">
+      <img alt="" src="img/cart_2.png">
+    </figure>
+  </li>
+</ul>
+
+
 <h4><strong>Megamenu</strong></h4>
 
 <p align="justify">Our templates include the Megamenu widget which helps to build a powerful and functional main menu of your store. The
@@ -152,6 +197,12 @@
     <li>
       <div align="justify">product listing (<strong>Link + product listing</strong>).  Category is chosen by the user, the option to enable/disable the drop-down sub-menu with the list of
       the latest entries (4 latest products) is also available;</div>
+    </li>
+    <li>
+      <div align="justify">top level link with the submenu of 4 banners and 4 respective columns with the link lists (<strong>4 linklists + 4 banners</strong>);</div>
+    </li>
+    <li>
+      <div align="justify">top level link with the submenu of 12 banners with links and text (<strong>Link + 12 banners</strong>);</div>
     </li>
   <li>
       <div align="justify">blog (<strong>Link + blog listing</strong>). Blog is chosen by the user, the option to enable/disable the drop-down sub-menu with the list of

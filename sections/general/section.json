@@ -67,6 +67,13 @@
         "en": "Wishlist",
         "ru": "Wishlist"
       }
+    },
+    {
+      "id": "animation",
+      "translations": {
+        "en": "Animation",
+        "ru": "Анимация"
+      }
     }
   ]
 }

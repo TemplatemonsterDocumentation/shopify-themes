@@ -3,7 +3,7 @@
 <p align="justify">You can change the default site favicon (small icon that appears in browser tab) with the png image of your choice.</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/favicon.png">
+    <img alt="" src="img/favicon_1.png">
   </figure>
   
 </p>
@@ -12,14 +12,14 @@
 <p>You can <strong>upload</strong> image from your computer or <strong>select </strong>image from your library.</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/favicon-1.png">
+    <img alt="" src="img/favicon_2.png">
   </figure>
   
 </p>
 <p>You are able to edit an image. Select <strong>Edit image</strong> from the <strong>Update</strong> dropdown.</p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/favicon-2.png">
+    <img alt="" src="img/favicon_3.png">
   </figure>
   
 </p>

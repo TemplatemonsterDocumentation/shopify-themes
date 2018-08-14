@@ -2,18 +2,49 @@
 <p align="justify">It is possible for you to add a slider to your website with text and button on the slides. </p>
 <p>
   <figure class="img-polaroid">
-    <img alt="" src="img/slideshow.png">
+    <img alt="" src="img/slideshow_0.png">
   </figure>
   
 </p>
 <h5>Let's review the Slideshow section
   configuration:</h5>
+<p>This section settings allow you to enable autosliding and set the slide display time (from 5 to 10 sec). Also, you may choose the section type from the following variants: just a slider, slider with the menu or slider with the banners block; define slider position: on the left or on the right.
+</p>
+
 <p>
   <figure class="img-polaroid">
     <img alt="" src="img/slideshow-1.png">
   </figure>
   
 </p>
+<p>Pagination alignment options are on the right, on the left and centered. 
+ </p>
+<p>If you decide to use the slider with the menu, you should choose the desired links list in the menu section. Optionally, you may also set the background color.
+</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/slideshow_1.png">
+  </figure>
+</p>
+<p>If you decide to use the slider with the banners, you should add the banner image in the 
+<strong>BANNER BIG</strong> section, then set the banner’s title, subtitle, and the link.</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/banner-big.png">
+  </figure>
+</p>
+
+<p><strong>BANNER SMALL</strong> section allows defining the background color, entering the title, subtitle, and the link.
+</p>
+<p>
+  <figure class="img-polaroid">
+    <img alt="" src="img/banner-small.png">
+  </figure>
+</p>
+
+
+
+
 
 <ol class="marked-list">
 <li>
