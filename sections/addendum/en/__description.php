@@ -1,7 +1,7 @@
 <h2 class="item5">Addendum</h2>
 
 <p>We did our best to make this documentation as clear as possible. However, if you have any difficulties with the
-    Joomla template or suggestions on improving the template or its documentation, feel free to contact our support team
+    Shopify template or suggestions on improving the template or its documentation, feel free to contact our support team
     through:</p>
 
 <h4>Help and Support</h4>
